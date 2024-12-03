@@ -1,0 +1,6 @@
+implant_id,implant_type,manufacturer,average_lifespan,compatibility_conditions
+1,Metal-Polyethylene,OrthoCorp,15,['Osteoarthritis']
+2,Ceramic-Metal,BioImplants,20,['Meniscus Tear']
+3,Metal-Metal,FlexiJoint,10,['Rheumatoid Arthritis']
+4,Ceramic-Polyethylene,KneeMend,18,['ACL Tear']
+5,Polyethylene,JointSecure,12,['Patellofemoral Pain Syndrome']

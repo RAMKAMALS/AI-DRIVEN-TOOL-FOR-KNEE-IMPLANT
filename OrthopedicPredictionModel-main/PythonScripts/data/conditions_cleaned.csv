@@ -1,0 +1,1001 @@
+condition_id,patient_id,condition_name,severity,date_diagnosed,severity_numeric
+1,1,Meniscus Tear,mild,2017-11-09,1
+2,2,PCL Tear,mild,2021-10-11,1
+3,3,Patellofemoral Pain Syndrome,severe,2015-01-23,3
+4,4,Osteoarthritis,moderate,2019-06-28,2
+5,5,Baker's Cyst,mild,2018-03-29,1
+6,6,Meniscus Tear,mild,2018-10-10,1
+7,7,Osteoarthritis,moderate,2017-05-03,2
+8,8,Patellofemoral Pain Syndrome,mild,2018-06-06,1
+9,9,Baker's Cyst,severe,2017-12-05,3
+10,10,Patellofemoral Pain Syndrome,mild,2019-12-08,1
+11,11,PCL Tear,moderate,2015-05-23,2
+12,12,Baker's Cyst,severe,2021-12-23,3
+13,13,Rheumatoid Arthritis,severe,2018-06-02,3
+14,14,Meniscus Tear,severe,2016-03-10,3
+15,15,Baker's Cyst,severe,2018-02-22,3
+16,16,Osteoarthritis,moderate,2018-08-30,2
+17,17,Osteoarthritis,severe,2015-04-25,3
+18,18,Osteoarthritis,mild,2020-01-17,1
+19,19,Rheumatoid Arthritis,moderate,2018-12-05,2
+20,20,Osteoarthritis,moderate,2016-06-17,2
+21,21,Osteoarthritis,moderate,2016-05-13,2
+22,22,Patellofemoral Pain Syndrome,mild,2018-10-13,1
+23,23,Meniscus Tear,severe,2018-06-23,3
+24,24,Meniscus Tear,severe,2017-07-15,3
+25,25,Baker's Cyst,mild,2022-02-20,1
+26,26,PCL Tear,moderate,2022-08-26,2
+27,27,PCL Tear,severe,2016-09-22,3
+28,28,Baker's Cyst,mild,2021-05-18,1
+29,29,Baker's Cyst,moderate,2017-08-06,2
+30,30,Baker's Cyst,moderate,2022-08-15,2
+31,31,Rheumatoid Arthritis,moderate,2022-03-11,2
+32,32,Rheumatoid Arthritis,severe,2021-09-20,3
+33,33,Meniscus Tear,moderate,2022-05-19,2
+34,34,Baker's Cyst,severe,2019-04-16,3
+35,35,Baker's Cyst,moderate,2016-05-20,2
+36,36,Baker's Cyst,moderate,2019-08-31,2
+37,37,Rheumatoid Arthritis,moderate,2019-10-30,2
+38,38,Patellofemoral Pain Syndrome,severe,2018-04-28,3
+39,39,PCL Tear,moderate,2015-01-19,2
+40,40,Rheumatoid Arthritis,moderate,2017-08-02,2
+41,41,Baker's Cyst,moderate,2020-02-02,2
+42,42,PCL Tear,severe,2017-09-01,3
+43,43,PCL Tear,mild,2016-04-18,1
+44,44,ACL Tear,mild,2022-09-23,1
+45,45,Meniscus Tear,moderate,2019-02-18,2
+46,46,Patellofemoral Pain Syndrome,moderate,2015-05-22,2
+47,47,ACL Tear,severe,2022-12-23,3
+48,48,PCL Tear,severe,2022-02-08,3
+49,49,Meniscus Tear,severe,2016-07-07,3
+50,50,Meniscus Tear,moderate,2019-06-11,2
+51,51,PCL Tear,moderate,2020-03-10,2
+52,52,Osteoarthritis,mild,2015-11-03,1
+53,53,Rheumatoid Arthritis,severe,2018-01-15,3
+54,54,Patellofemoral Pain Syndrome,mild,2020-01-29,1
+55,55,Patellofemoral Pain Syndrome,severe,2015-10-22,3
+56,56,Osteoarthritis,mild,2018-06-11,1
+57,57,Meniscus Tear,mild,2019-09-17,1
+58,58,Meniscus Tear,severe,2021-05-02,3
+59,59,ACL Tear,severe,2016-02-05,3
+60,60,Baker's Cyst,severe,2017-03-31,3
+61,61,ACL Tear,severe,2016-02-27,3
+62,62,Rheumatoid Arthritis,moderate,2019-02-12,2
+63,63,Patellofemoral Pain Syndrome,severe,2015-12-27,3
+64,64,Meniscus Tear,severe,2015-06-28,3
+65,65,Meniscus Tear,mild,2019-04-02,1
+66,66,Osteoarthritis,mild,2015-01-24,1
+67,67,Patellofemoral Pain Syndrome,moderate,2021-06-14,2
+68,68,PCL Tear,mild,2019-12-03,1
+69,69,ACL Tear,moderate,2018-10-20,2
+70,70,Rheumatoid Arthritis,severe,2019-02-19,3
+71,71,Baker's Cyst,severe,2016-08-06,3
+72,72,Baker's Cyst,moderate,2018-03-17,2
+73,73,PCL Tear,severe,2019-08-01,3
+74,74,Meniscus Tear,moderate,2021-04-29,2
+75,75,Osteoarthritis,mild,2015-12-11,1
+76,76,Osteoarthritis,moderate,2022-05-08,2
+77,77,Rheumatoid Arthritis,mild,2015-04-07,1
+78,78,Osteoarthritis,moderate,2018-04-08,2
+79,79,PCL Tear,mild,2015-08-17,1
+80,80,Patellofemoral Pain Syndrome,severe,2018-05-19,3
+81,81,PCL Tear,severe,2022-06-16,3
+82,82,Patellofemoral Pain Syndrome,severe,2022-03-16,3
+83,83,Baker's Cyst,severe,2020-04-30,3
+84,84,Rheumatoid Arthritis,moderate,2021-07-26,2
+85,85,Rheumatoid Arthritis,mild,2016-03-02,1
+86,86,ACL Tear,severe,2019-07-23,3
+87,87,Osteoarthritis,severe,2016-01-22,3
+88,88,Patellofemoral Pain Syndrome,severe,2018-09-22,3
+89,89,PCL Tear,mild,2017-09-05,1
+90,90,Osteoarthritis,mild,2016-11-05,1
+91,91,Osteoarthritis,moderate,2019-04-13,2
+92,92,Rheumatoid Arthritis,mild,2016-10-17,1
+93,93,Baker's Cyst,mild,2020-08-31,1
+94,94,Osteoarthritis,moderate,2016-12-31,2
+95,95,Rheumatoid Arthritis,mild,2018-11-16,1
+96,96,Meniscus Tear,moderate,2018-04-02,2
+97,97,Patellofemoral Pain Syndrome,mild,2016-01-31,1
+98,98,Patellofemoral Pain Syndrome,severe,2015-08-11,3
+99,99,Osteoarthritis,moderate,2019-09-21,2
+100,100,Baker's Cyst,mild,2016-01-20,1
+101,101,Baker's Cyst,mild,2022-01-25,1
+102,102,ACL Tear,moderate,2017-04-13,2
+103,103,Baker's Cyst,mild,2018-06-06,1
+104,104,Patellofemoral Pain Syndrome,severe,2015-06-11,3
+105,105,Baker's Cyst,mild,2016-12-06,1
+106,106,Patellofemoral Pain Syndrome,moderate,2021-05-15,2
+107,107,Osteoarthritis,moderate,2020-07-16,2
+108,108,Meniscus Tear,moderate,2018-07-11,2
+109,109,Osteoarthritis,moderate,2022-05-20,2
+110,110,Rheumatoid Arthritis,mild,2015-07-14,1
+111,111,Patellofemoral Pain Syndrome,mild,2017-08-12,1
+112,112,PCL Tear,mild,2019-12-17,1
+113,113,Patellofemoral Pain Syndrome,severe,2018-12-07,3
+114,114,Patellofemoral Pain Syndrome,severe,2019-08-12,3
+115,115,ACL Tear,moderate,2019-02-26,2
+116,116,Osteoarthritis,severe,2021-07-27,3
+117,117,Osteoarthritis,mild,2018-08-10,1
+118,118,Meniscus Tear,severe,2017-03-20,3
+119,119,Patellofemoral Pain Syndrome,mild,2019-12-28,1
+120,120,Rheumatoid Arthritis,moderate,2018-05-25,2
+121,121,Patellofemoral Pain Syndrome,severe,2019-11-11,3
+122,122,Patellofemoral Pain Syndrome,severe,2015-10-04,3
+123,123,Patellofemoral Pain Syndrome,moderate,2020-08-25,2
+124,124,Baker's Cyst,mild,2020-04-24,1
+125,125,PCL Tear,moderate,2016-01-30,2
+126,126,ACL Tear,moderate,2016-04-15,2
+127,127,Baker's Cyst,moderate,2019-03-29,2
+128,128,Baker's Cyst,severe,2021-10-06,3
+129,129,Patellofemoral Pain Syndrome,severe,2019-01-29,3
+130,130,Patellofemoral Pain Syndrome,severe,2021-07-24,3
+131,131,Patellofemoral Pain Syndrome,severe,2020-10-09,3
+132,132,Baker's Cyst,mild,2017-02-13,1
+133,133,Osteoarthritis,severe,2021-01-10,3
+134,134,Rheumatoid Arthritis,moderate,2019-10-18,2
+135,135,Patellofemoral Pain Syndrome,mild,2017-08-18,1
+136,136,Rheumatoid Arthritis,severe,2016-03-28,3
+137,137,PCL Tear,mild,2018-01-31,1
+138,138,Patellofemoral Pain Syndrome,moderate,2020-10-15,2
+139,139,Patellofemoral Pain Syndrome,severe,2016-11-26,3
+140,140,Osteoarthritis,mild,2022-11-29,1
+141,141,Meniscus Tear,severe,2022-06-29,3
+142,142,Baker's Cyst,moderate,2019-03-01,2
+143,143,Rheumatoid Arthritis,moderate,2018-02-11,2
+144,144,Meniscus Tear,moderate,2021-11-03,2
+145,145,Rheumatoid Arthritis,severe,2018-03-15,3
+146,146,Baker's Cyst,moderate,2015-03-10,2
+147,147,Patellofemoral Pain Syndrome,severe,2018-11-27,3
+148,148,ACL Tear,mild,2019-09-30,1
+149,149,Rheumatoid Arthritis,moderate,2016-02-06,2
+150,150,Osteoarthritis,severe,2019-02-27,3
+151,151,Rheumatoid Arthritis,severe,2017-04-28,3
+152,152,Baker's Cyst,mild,2015-08-21,1
+153,153,PCL Tear,moderate,2017-03-04,2
+154,154,Rheumatoid Arthritis,moderate,2019-07-14,2
+155,155,Meniscus Tear,severe,2019-06-02,3
+156,156,Patellofemoral Pain Syndrome,mild,2016-06-03,1
+157,157,PCL Tear,mild,2021-11-23,1
+158,158,Meniscus Tear,moderate,2022-05-27,2
+159,159,Meniscus Tear,severe,2022-12-22,3
+160,160,Osteoarthritis,mild,2018-05-27,1
+161,161,PCL Tear,moderate,2022-11-15,2
+162,162,ACL Tear,moderate,2015-11-04,2
+163,163,Osteoarthritis,moderate,2021-06-12,2
+164,164,Meniscus Tear,mild,2019-04-21,1
+165,165,Osteoarthritis,moderate,2022-10-25,2
+166,166,Patellofemoral Pain Syndrome,severe,2018-02-24,3
+167,167,Baker's Cyst,moderate,2016-08-19,2
+168,168,Rheumatoid Arthritis,severe,2018-08-20,3
+169,169,Osteoarthritis,severe,2017-04-10,3
+170,170,Baker's Cyst,moderate,2021-07-15,2
+171,171,Baker's Cyst,mild,2022-10-07,1
+172,172,Osteoarthritis,moderate,2019-04-23,2
+173,173,Osteoarthritis,moderate,2017-10-14,2
+174,174,Baker's Cyst,severe,2017-03-01,3
+175,175,Patellofemoral Pain Syndrome,moderate,2018-09-22,2
+176,176,Meniscus Tear,moderate,2021-04-25,2
+177,177,Meniscus Tear,severe,2020-03-21,3
+178,178,ACL Tear,severe,2015-11-29,3
+179,179,Rheumatoid Arthritis,mild,2016-10-28,1
+180,180,Osteoarthritis,moderate,2018-08-07,2
+181,181,ACL Tear,severe,2022-07-31,3
+182,182,PCL Tear,mild,2020-06-15,1
+183,183,Osteoarthritis,mild,2015-11-18,1
+184,184,Meniscus Tear,severe,2016-09-10,3
+185,185,Rheumatoid Arthritis,severe,2019-05-18,3
+186,186,Baker's Cyst,mild,2018-11-13,1
+187,187,Patellofemoral Pain Syndrome,severe,2021-01-15,3
+188,188,Meniscus Tear,moderate,2018-09-17,2
+189,189,ACL Tear,mild,2020-04-25,1
+190,190,Meniscus Tear,severe,2022-07-07,3
+191,191,PCL Tear,moderate,2018-07-21,2
+192,192,Patellofemoral Pain Syndrome,mild,2018-03-02,1
+193,193,Rheumatoid Arthritis,severe,2017-11-07,3
+194,194,Meniscus Tear,mild,2016-05-23,1
+195,195,Meniscus Tear,severe,2017-07-23,3
+196,196,Osteoarthritis,severe,2020-10-31,3
+197,197,Osteoarthritis,mild,2018-12-21,1
+198,198,Baker's Cyst,mild,2019-06-07,1
+199,199,Meniscus Tear,moderate,2016-02-01,2
+200,200,Rheumatoid Arthritis,mild,2019-07-21,1
+201,201,Meniscus Tear,mild,2019-10-04,1
+202,202,Osteoarthritis,moderate,2016-06-26,2
+203,203,Osteoarthritis,severe,2021-03-06,3
+204,204,Patellofemoral Pain Syndrome,severe,2016-04-26,3
+205,205,Rheumatoid Arthritis,severe,2020-02-28,3
+206,206,Patellofemoral Pain Syndrome,severe,2020-01-13,3
+207,207,Baker's Cyst,mild,2015-06-03,1
+208,208,Rheumatoid Arthritis,mild,2016-08-25,1
+209,209,PCL Tear,mild,2019-03-03,1
+210,210,PCL Tear,mild,2019-07-14,1
+211,211,PCL Tear,severe,2022-04-29,3
+212,212,Osteoarthritis,severe,2016-10-04,3
+213,213,Patellofemoral Pain Syndrome,mild,2020-06-27,1
+214,214,PCL Tear,severe,2016-10-25,3
+215,215,ACL Tear,mild,2022-09-24,1
+216,216,Meniscus Tear,mild,2015-03-13,1
+217,217,Patellofemoral Pain Syndrome,severe,2018-04-23,3
+218,218,Osteoarthritis,mild,2018-03-06,1
+219,219,Rheumatoid Arthritis,moderate,2019-02-12,2
+220,220,Rheumatoid Arthritis,severe,2020-05-21,3
+221,221,ACL Tear,mild,2021-08-29,1
+222,222,PCL Tear,mild,2018-09-19,1
+223,223,Patellofemoral Pain Syndrome,mild,2016-08-24,1
+224,224,Baker's Cyst,mild,2018-08-04,1
+225,225,Patellofemoral Pain Syndrome,severe,2019-08-31,3
+226,226,ACL Tear,severe,2015-03-18,3
+227,227,PCL Tear,mild,2022-09-10,1
+228,228,Patellofemoral Pain Syndrome,severe,2020-12-22,3
+229,229,Patellofemoral Pain Syndrome,severe,2021-05-27,3
+230,230,Osteoarthritis,moderate,2018-05-04,2
+231,231,Meniscus Tear,moderate,2022-11-24,2
+232,232,Patellofemoral Pain Syndrome,mild,2020-08-03,1
+233,233,PCL Tear,mild,2021-08-04,1
+234,234,Patellofemoral Pain Syndrome,moderate,2017-03-22,2
+235,235,Baker's Cyst,mild,2016-05-30,1
+236,236,Rheumatoid Arthritis,severe,2022-06-14,3
+237,237,Osteoarthritis,mild,2021-02-23,1
+238,238,Baker's Cyst,moderate,2022-07-15,2
+239,239,Osteoarthritis,severe,2022-07-06,3
+240,240,Baker's Cyst,moderate,2019-05-23,2
+241,241,Patellofemoral Pain Syndrome,severe,2015-01-22,3
+242,242,Rheumatoid Arthritis,severe,2022-06-04,3
+243,243,Meniscus Tear,mild,2018-10-03,1
+244,244,Osteoarthritis,mild,2021-01-18,1
+245,245,Rheumatoid Arthritis,severe,2022-09-23,3
+246,246,Baker's Cyst,moderate,2015-12-30,2
+247,247,ACL Tear,mild,2016-03-06,1
+248,248,Rheumatoid Arthritis,moderate,2022-03-15,2
+249,249,Baker's Cyst,severe,2019-11-12,3
+250,250,Rheumatoid Arthritis,mild,2018-08-13,1
+251,251,Osteoarthritis,moderate,2015-12-28,2
+252,252,Rheumatoid Arthritis,mild,2018-05-28,1
+253,253,Osteoarthritis,mild,2015-12-21,1
+254,254,ACL Tear,moderate,2020-01-07,2
+255,255,Meniscus Tear,moderate,2016-11-25,2
+256,256,Patellofemoral Pain Syndrome,mild,2020-06-10,1
+257,257,Patellofemoral Pain Syndrome,severe,2017-03-25,3
+258,258,Baker's Cyst,moderate,2020-02-18,2
+259,259,Baker's Cyst,severe,2022-08-21,3
+260,260,Patellofemoral Pain Syndrome,mild,2022-03-21,1
+261,261,Baker's Cyst,moderate,2022-10-27,2
+262,262,Rheumatoid Arthritis,moderate,2022-04-20,2
+263,263,Osteoarthritis,moderate,2016-01-15,2
+264,264,Baker's Cyst,moderate,2021-06-10,2
+265,265,Meniscus Tear,severe,2019-10-10,3
+266,266,Baker's Cyst,severe,2017-05-19,3
+267,267,PCL Tear,moderate,2015-06-27,2
+268,268,Rheumatoid Arthritis,mild,2022-10-18,1
+269,269,PCL Tear,moderate,2016-12-11,2
+270,270,Meniscus Tear,moderate,2019-06-08,2
+271,271,Osteoarthritis,moderate,2017-06-27,2
+272,272,Meniscus Tear,moderate,2018-06-29,2
+273,273,Patellofemoral Pain Syndrome,severe,2021-06-28,3
+274,274,ACL Tear,mild,2020-06-05,1
+275,275,PCL Tear,mild,2015-06-20,1
+276,276,Patellofemoral Pain Syndrome,severe,2015-10-30,3
+277,277,Patellofemoral Pain Syndrome,severe,2018-01-05,3
+278,278,Baker's Cyst,mild,2022-05-11,1
+279,279,Osteoarthritis,mild,2019-02-24,1
+280,280,ACL Tear,mild,2019-03-05,1
+281,281,Baker's Cyst,severe,2019-05-29,3
+282,282,PCL Tear,mild,2018-06-30,1
+283,283,Meniscus Tear,severe,2020-10-20,3
+284,284,Rheumatoid Arthritis,severe,2017-03-05,3
+285,285,Osteoarthritis,moderate,2019-03-01,2
+286,286,ACL Tear,moderate,2021-04-11,2
+287,287,Rheumatoid Arthritis,mild,2018-07-09,1
+288,288,Osteoarthritis,mild,2020-03-14,1
+289,289,Baker's Cyst,severe,2016-01-27,3
+290,290,Baker's Cyst,severe,2018-03-09,3
+291,291,Patellofemoral Pain Syndrome,mild,2017-07-07,1
+292,292,Osteoarthritis,moderate,2021-04-20,2
+293,293,PCL Tear,mild,2021-05-13,1
+294,294,PCL Tear,severe,2021-07-12,3
+295,295,Baker's Cyst,moderate,2019-06-08,2
+296,296,Osteoarthritis,mild,2020-12-05,1
+297,297,Osteoarthritis,moderate,2015-09-24,2
+298,298,Patellofemoral Pain Syndrome,mild,2019-03-11,1
+299,299,Baker's Cyst,severe,2017-11-15,3
+300,300,ACL Tear,moderate,2015-10-18,2
+301,301,Rheumatoid Arthritis,severe,2022-10-06,3
+302,302,Baker's Cyst,mild,2021-09-12,1
+303,303,ACL Tear,mild,2018-07-16,1
+304,304,ACL Tear,severe,2016-03-16,3
+305,305,Meniscus Tear,mild,2017-10-15,1
+306,306,Rheumatoid Arthritis,moderate,2015-12-14,2
+307,307,ACL Tear,moderate,2019-08-23,2
+308,308,Baker's Cyst,mild,2021-01-11,1
+309,309,PCL Tear,moderate,2020-08-14,2
+310,310,PCL Tear,mild,2019-12-28,1
+311,311,Patellofemoral Pain Syndrome,moderate,2016-04-23,2
+312,312,Osteoarthritis,severe,2018-08-08,3
+313,313,Osteoarthritis,moderate,2019-04-24,2
+314,314,PCL Tear,mild,2018-06-10,1
+315,315,Patellofemoral Pain Syndrome,severe,2019-05-24,3
+316,316,Patellofemoral Pain Syndrome,mild,2016-06-09,1
+317,317,Osteoarthritis,mild,2020-02-01,1
+318,318,Baker's Cyst,moderate,2016-01-09,2
+319,319,Baker's Cyst,moderate,2022-09-09,2
+320,320,Baker's Cyst,moderate,2018-08-28,2
+321,321,Patellofemoral Pain Syndrome,severe,2015-01-17,3
+322,322,Osteoarthritis,mild,2022-07-02,1
+323,323,Osteoarthritis,moderate,2019-10-23,2
+324,324,Osteoarthritis,severe,2016-02-11,3
+325,325,ACL Tear,mild,2015-01-12,1
+326,326,Osteoarthritis,mild,2020-03-01,1
+327,327,Osteoarthritis,moderate,2020-03-15,2
+328,328,Osteoarthritis,severe,2019-03-22,3
+329,329,Rheumatoid Arthritis,severe,2017-09-17,3
+330,330,Meniscus Tear,moderate,2020-01-27,2
+331,331,Patellofemoral Pain Syndrome,moderate,2020-02-18,2
+332,332,Rheumatoid Arthritis,mild,2015-06-03,1
+333,333,Rheumatoid Arthritis,moderate,2018-03-22,2
+334,334,ACL Tear,severe,2018-11-28,3
+335,335,Rheumatoid Arthritis,severe,2022-08-25,3
+336,336,Osteoarthritis,severe,2018-10-21,3
+337,337,Patellofemoral Pain Syndrome,moderate,2021-07-31,2
+338,338,Patellofemoral Pain Syndrome,severe,2017-05-06,3
+339,339,Patellofemoral Pain Syndrome,moderate,2019-05-31,2
+340,340,Rheumatoid Arthritis,moderate,2015-08-14,2
+341,341,Baker's Cyst,severe,2018-06-14,3
+342,342,Rheumatoid Arthritis,mild,2020-01-28,1
+343,343,Patellofemoral Pain Syndrome,severe,2016-07-28,3
+344,344,Rheumatoid Arthritis,moderate,2017-09-01,2
+345,345,PCL Tear,moderate,2022-11-05,2
+346,346,Osteoarthritis,moderate,2016-04-01,2
+347,347,PCL Tear,mild,2019-08-25,1
+348,348,Osteoarthritis,moderate,2022-09-06,2
+349,349,Osteoarthritis,mild,2016-04-02,1
+350,350,Baker's Cyst,moderate,2018-06-08,2
+351,351,Meniscus Tear,moderate,2019-07-03,2
+352,352,Baker's Cyst,moderate,2016-07-05,2
+353,353,Osteoarthritis,moderate,2019-06-07,2
+354,354,Osteoarthritis,mild,2021-06-22,1
+355,355,Rheumatoid Arthritis,severe,2015-12-27,3
+356,356,Osteoarthritis,mild,2021-12-23,1
+357,357,Osteoarthritis,severe,2019-09-24,3
+358,358,Meniscus Tear,severe,2019-10-22,3
+359,359,Osteoarthritis,mild,2015-09-27,1
+360,360,Baker's Cyst,moderate,2015-05-03,2
+361,361,Meniscus Tear,moderate,2021-07-14,2
+362,362,Patellofemoral Pain Syndrome,moderate,2015-02-11,2
+363,363,Baker's Cyst,mild,2018-09-24,1
+364,364,Baker's Cyst,severe,2022-06-30,3
+365,365,Patellofemoral Pain Syndrome,severe,2015-03-19,3
+366,366,Osteoarthritis,mild,2016-08-10,1
+367,367,Baker's Cyst,severe,2022-12-19,3
+368,368,Osteoarthritis,moderate,2019-11-14,2
+369,369,Osteoarthritis,mild,2020-05-18,1
+370,370,Meniscus Tear,severe,2018-02-02,3
+371,371,Patellofemoral Pain Syndrome,mild,2015-08-19,1
+372,372,PCL Tear,moderate,2016-02-15,2
+373,373,Baker's Cyst,mild,2017-10-08,1
+374,374,Patellofemoral Pain Syndrome,mild,2018-06-12,1
+375,375,Rheumatoid Arthritis,severe,2021-09-19,3
+376,376,Baker's Cyst,moderate,2018-07-29,2
+377,377,Patellofemoral Pain Syndrome,moderate,2021-09-16,2
+378,378,Baker's Cyst,mild,2021-04-19,1
+379,379,Meniscus Tear,mild,2017-07-01,1
+380,380,Patellofemoral Pain Syndrome,severe,2020-07-24,3
+381,381,Osteoarthritis,severe,2020-04-28,3
+382,382,Baker's Cyst,mild,2016-06-08,1
+383,383,Patellofemoral Pain Syndrome,mild,2022-02-03,1
+384,384,Rheumatoid Arthritis,mild,2017-01-21,1
+385,385,PCL Tear,moderate,2016-06-22,2
+386,386,Rheumatoid Arthritis,moderate,2017-10-07,2
+387,387,PCL Tear,severe,2015-12-25,3
+388,388,Osteoarthritis,mild,2018-07-17,1
+389,389,Meniscus Tear,severe,2018-06-18,3
+390,390,Patellofemoral Pain Syndrome,mild,2020-01-17,1
+391,391,PCL Tear,severe,2021-06-28,3
+392,392,Osteoarthritis,moderate,2022-06-24,2
+393,393,Baker's Cyst,moderate,2018-03-10,2
+394,394,Patellofemoral Pain Syndrome,moderate,2015-07-28,2
+395,395,Osteoarthritis,moderate,2018-10-06,2
+396,396,Osteoarthritis,mild,2017-06-05,1
+397,397,Patellofemoral Pain Syndrome,mild,2022-07-22,1
+398,398,PCL Tear,severe,2016-03-07,3
+399,399,PCL Tear,severe,2018-10-27,3
+400,400,Osteoarthritis,mild,2017-06-04,1
+401,401,PCL Tear,mild,2017-07-31,1
+402,402,Patellofemoral Pain Syndrome,severe,2015-03-31,3
+403,403,Osteoarthritis,severe,2020-03-24,3
+404,404,Rheumatoid Arthritis,severe,2022-02-03,3
+405,405,Rheumatoid Arthritis,moderate,2021-12-31,2
+406,406,ACL Tear,mild,2015-03-07,1
+407,407,Patellofemoral Pain Syndrome,moderate,2017-04-24,2
+408,408,Patellofemoral Pain Syndrome,mild,2019-04-10,1
+409,409,Baker's Cyst,severe,2022-11-08,3
+410,410,PCL Tear,mild,2018-08-30,1
+411,411,Osteoarthritis,mild,2016-03-29,1
+412,412,Baker's Cyst,mild,2017-06-04,1
+413,413,PCL Tear,moderate,2018-11-16,2
+414,414,Rheumatoid Arthritis,mild,2015-04-01,1
+415,415,Rheumatoid Arthritis,moderate,2017-05-25,2
+416,416,Meniscus Tear,severe,2015-06-17,3
+417,417,Baker's Cyst,moderate,2021-06-30,2
+418,418,PCL Tear,severe,2018-03-25,3
+419,419,PCL Tear,mild,2015-01-16,1
+420,420,Baker's Cyst,severe,2021-02-26,3
+421,421,Patellofemoral Pain Syndrome,moderate,2015-09-21,2
+422,422,Meniscus Tear,moderate,2020-12-04,2
+423,423,Osteoarthritis,severe,2019-03-20,3
+424,424,Baker's Cyst,severe,2019-03-19,3
+425,425,Baker's Cyst,mild,2015-11-11,1
+426,426,ACL Tear,severe,2018-03-12,3
+427,427,Patellofemoral Pain Syndrome,severe,2016-02-19,3
+428,428,Osteoarthritis,moderate,2021-07-14,2
+429,429,Meniscus Tear,severe,2022-12-06,3
+430,430,Patellofemoral Pain Syndrome,moderate,2018-07-03,2
+431,431,Baker's Cyst,mild,2019-03-18,1
+432,432,Patellofemoral Pain Syndrome,mild,2020-05-30,1
+433,433,Meniscus Tear,mild,2022-06-17,1
+434,434,Osteoarthritis,moderate,2021-12-20,2
+435,435,Patellofemoral Pain Syndrome,mild,2022-04-20,1
+436,436,Patellofemoral Pain Syndrome,mild,2022-06-06,1
+437,437,PCL Tear,moderate,2016-06-15,2
+438,438,Rheumatoid Arthritis,moderate,2019-12-27,2
+439,439,Rheumatoid Arthritis,severe,2021-01-15,3
+440,440,ACL Tear,moderate,2017-12-24,2
+441,441,Baker's Cyst,severe,2019-09-21,3
+442,442,Baker's Cyst,moderate,2015-11-09,2
+443,443,Osteoarthritis,mild,2021-05-29,1
+444,444,Osteoarthritis,moderate,2018-12-28,2
+445,445,PCL Tear,severe,2016-01-27,3
+446,446,Baker's Cyst,severe,2018-08-07,3
+447,447,Rheumatoid Arthritis,severe,2022-10-15,3
+448,448,Rheumatoid Arthritis,severe,2016-02-09,3
+449,449,Baker's Cyst,severe,2021-06-19,3
+450,450,Baker's Cyst,severe,2015-12-27,3
+451,451,Osteoarthritis,mild,2021-09-15,1
+452,452,PCL Tear,severe,2019-01-04,3
+453,453,Baker's Cyst,severe,2022-03-11,3
+454,454,Rheumatoid Arthritis,severe,2022-08-26,3
+455,455,Baker's Cyst,moderate,2022-10-31,2
+456,456,Osteoarthritis,severe,2022-02-02,3
+457,457,ACL Tear,moderate,2016-07-20,2
+458,458,ACL Tear,severe,2022-12-02,3
+459,459,Patellofemoral Pain Syndrome,mild,2021-06-24,1
+460,460,Rheumatoid Arthritis,moderate,2017-07-27,2
+461,461,Baker's Cyst,mild,2017-12-17,1
+462,462,ACL Tear,mild,2022-12-31,1
+463,463,PCL Tear,moderate,2016-03-25,2
+464,464,ACL Tear,mild,2021-10-21,1
+465,465,Rheumatoid Arthritis,severe,2019-06-07,3
+466,466,Osteoarthritis,mild,2015-11-26,1
+467,467,Meniscus Tear,severe,2018-04-13,3
+468,468,Baker's Cyst,moderate,2022-10-20,2
+469,469,ACL Tear,mild,2018-07-02,1
+470,470,Osteoarthritis,mild,2015-10-18,1
+471,471,ACL Tear,moderate,2019-02-15,2
+472,472,Osteoarthritis,moderate,2018-12-26,2
+473,473,Meniscus Tear,moderate,2015-02-08,2
+474,474,Baker's Cyst,moderate,2017-10-07,2
+475,475,Patellofemoral Pain Syndrome,moderate,2018-02-22,2
+476,476,PCL Tear,mild,2018-06-12,1
+477,477,Osteoarthritis,severe,2019-01-17,3
+478,478,Meniscus Tear,mild,2017-11-23,1
+479,479,Baker's Cyst,mild,2020-06-16,1
+480,480,Baker's Cyst,mild,2016-03-12,1
+481,481,Baker's Cyst,severe,2018-04-08,3
+482,482,Patellofemoral Pain Syndrome,moderate,2016-10-22,2
+483,483,Meniscus Tear,severe,2018-12-29,3
+484,484,PCL Tear,severe,2019-10-12,3
+485,485,PCL Tear,severe,2022-06-28,3
+486,486,Patellofemoral Pain Syndrome,severe,2020-12-18,3
+487,487,ACL Tear,mild,2015-06-06,1
+488,488,ACL Tear,mild,2016-03-31,1
+489,489,Patellofemoral Pain Syndrome,moderate,2017-11-17,2
+490,490,Osteoarthritis,moderate,2019-03-18,2
+491,491,Rheumatoid Arthritis,moderate,2019-03-15,2
+492,492,Osteoarthritis,moderate,2017-09-30,2
+493,493,Rheumatoid Arthritis,severe,2016-12-18,3
+494,494,Patellofemoral Pain Syndrome,mild,2018-02-17,1
+495,495,Patellofemoral Pain Syndrome,moderate,2020-05-11,2
+496,496,Rheumatoid Arthritis,severe,2016-03-19,3
+497,497,Meniscus Tear,severe,2015-03-21,3
+498,498,PCL Tear,severe,2016-03-12,3
+499,499,Osteoarthritis,mild,2020-01-25,1
+500,500,Osteoarthritis,severe,2018-09-07,3
+501,501,Meniscus Tear,moderate,2022-07-06,2
+502,502,Osteoarthritis,severe,2016-05-12,3
+503,503,Baker's Cyst,mild,2021-04-10,1
+504,504,Patellofemoral Pain Syndrome,mild,2020-12-23,1
+505,505,Rheumatoid Arthritis,moderate,2015-09-03,2
+506,506,Baker's Cyst,moderate,2016-07-18,2
+507,507,PCL Tear,severe,2019-01-31,3
+508,508,ACL Tear,severe,2017-08-31,3
+509,509,Meniscus Tear,severe,2022-10-24,3
+510,510,PCL Tear,moderate,2019-10-12,2
+511,511,Baker's Cyst,moderate,2018-09-21,2
+512,512,Osteoarthritis,severe,2019-12-24,3
+513,513,Osteoarthritis,mild,2015-12-19,1
+514,514,ACL Tear,mild,2020-02-29,1
+515,515,Patellofemoral Pain Syndrome,severe,2015-11-25,3
+516,516,Meniscus Tear,mild,2018-03-14,1
+517,517,PCL Tear,moderate,2021-06-14,2
+518,518,ACL Tear,severe,2021-03-17,3
+519,519,ACL Tear,severe,2019-01-28,3
+520,520,Baker's Cyst,moderate,2015-08-06,2
+521,521,Patellofemoral Pain Syndrome,severe,2020-10-25,3
+522,522,Rheumatoid Arthritis,severe,2016-07-15,3
+523,523,Rheumatoid Arthritis,mild,2018-10-12,1
+524,524,Meniscus Tear,severe,2017-09-09,3
+525,525,ACL Tear,severe,2015-05-26,3
+526,526,Patellofemoral Pain Syndrome,severe,2021-10-18,3
+527,527,Baker's Cyst,mild,2016-11-18,1
+528,528,Osteoarthritis,severe,2019-02-17,3
+529,529,Baker's Cyst,moderate,2022-05-20,2
+530,530,PCL Tear,mild,2015-02-17,1
+531,531,ACL Tear,severe,2021-08-02,3
+532,532,PCL Tear,mild,2022-08-06,1
+533,533,Baker's Cyst,severe,2020-01-30,3
+534,534,Osteoarthritis,mild,2020-11-23,1
+535,535,Baker's Cyst,moderate,2015-07-21,2
+536,536,Osteoarthritis,mild,2021-06-22,1
+537,537,Meniscus Tear,mild,2017-05-25,1
+538,538,Osteoarthritis,moderate,2016-08-10,2
+539,539,Meniscus Tear,mild,2022-03-05,1
+540,540,Meniscus Tear,mild,2016-06-04,1
+541,541,Meniscus Tear,mild,2016-04-20,1
+542,542,Meniscus Tear,moderate,2017-09-18,2
+543,543,ACL Tear,moderate,2017-08-08,2
+544,544,PCL Tear,moderate,2019-04-04,2
+545,545,Osteoarthritis,moderate,2017-12-04,2
+546,546,Rheumatoid Arthritis,moderate,2018-01-25,2
+547,547,Patellofemoral Pain Syndrome,moderate,2019-10-05,2
+548,548,Meniscus Tear,mild,2016-07-03,1
+549,549,Rheumatoid Arthritis,severe,2022-09-23,3
+550,550,Meniscus Tear,moderate,2015-07-10,2
+551,551,Rheumatoid Arthritis,severe,2015-05-31,3
+552,552,Osteoarthritis,severe,2020-03-05,3
+553,553,Baker's Cyst,mild,2019-02-06,1
+554,554,Rheumatoid Arthritis,severe,2018-01-06,3
+555,555,Patellofemoral Pain Syndrome,mild,2016-10-24,1
+556,556,Rheumatoid Arthritis,mild,2021-02-04,1
+557,557,Osteoarthritis,moderate,2021-04-26,2
+558,558,Osteoarthritis,severe,2021-09-11,3
+559,559,PCL Tear,severe,2018-11-25,3
+560,560,Baker's Cyst,mild,2020-11-01,1
+561,561,Patellofemoral Pain Syndrome,moderate,2021-11-04,2
+562,562,Meniscus Tear,moderate,2017-01-09,2
+563,563,Baker's Cyst,mild,2016-06-25,1
+564,564,Meniscus Tear,mild,2020-07-02,1
+565,565,Baker's Cyst,mild,2015-10-22,1
+566,566,Baker's Cyst,moderate,2021-09-25,2
+567,567,Meniscus Tear,mild,2019-11-06,1
+568,568,Rheumatoid Arthritis,severe,2021-09-06,3
+569,569,PCL Tear,moderate,2015-05-20,2
+570,570,Patellofemoral Pain Syndrome,moderate,2022-06-19,2
+571,571,ACL Tear,mild,2016-02-01,1
+572,572,Meniscus Tear,mild,2017-09-17,1
+573,573,Baker's Cyst,moderate,2020-01-25,2
+574,574,Rheumatoid Arthritis,mild,2021-07-09,1
+575,575,PCL Tear,mild,2016-12-11,1
+576,576,Osteoarthritis,severe,2015-02-11,3
+577,577,PCL Tear,mild,2021-02-20,1
+578,578,Baker's Cyst,mild,2015-05-26,1
+579,579,Osteoarthritis,mild,2021-07-31,1
+580,580,Baker's Cyst,mild,2015-03-02,1
+581,581,Patellofemoral Pain Syndrome,mild,2020-02-22,1
+582,582,Baker's Cyst,severe,2022-03-26,3
+583,583,Osteoarthritis,moderate,2015-04-13,2
+584,584,Meniscus Tear,moderate,2015-09-18,2
+585,585,Patellofemoral Pain Syndrome,mild,2021-11-07,1
+586,586,Rheumatoid Arthritis,moderate,2019-01-08,2
+587,587,ACL Tear,mild,2015-03-18,1
+588,588,Meniscus Tear,moderate,2015-10-31,2
+589,589,Patellofemoral Pain Syndrome,moderate,2016-07-14,2
+590,590,Osteoarthritis,mild,2021-10-22,1
+591,591,Rheumatoid Arthritis,mild,2020-12-08,1
+592,592,Meniscus Tear,moderate,2021-02-21,2
+593,593,Patellofemoral Pain Syndrome,mild,2022-11-01,1
+594,594,Osteoarthritis,mild,2018-06-27,1
+595,595,Rheumatoid Arthritis,moderate,2019-08-30,2
+596,596,Osteoarthritis,moderate,2019-03-15,2
+597,597,Meniscus Tear,moderate,2020-07-11,2
+598,598,Osteoarthritis,severe,2016-07-27,3
+599,599,Meniscus Tear,moderate,2019-11-12,2
+600,600,Rheumatoid Arthritis,moderate,2021-02-11,2
+601,601,Patellofemoral Pain Syndrome,moderate,2020-02-10,2
+602,602,Rheumatoid Arthritis,severe,2020-12-03,3
+603,603,ACL Tear,severe,2016-05-16,3
+604,604,Osteoarthritis,mild,2016-05-19,1
+605,605,Patellofemoral Pain Syndrome,mild,2021-09-19,1
+606,606,Rheumatoid Arthritis,severe,2015-07-11,3
+607,607,Baker's Cyst,mild,2019-05-27,1
+608,608,Meniscus Tear,severe,2016-05-19,3
+609,609,Rheumatoid Arthritis,mild,2015-07-22,1
+610,610,Osteoarthritis,severe,2020-08-23,3
+611,611,Osteoarthritis,mild,2021-01-11,1
+612,612,ACL Tear,moderate,2020-05-11,2
+613,613,Osteoarthritis,moderate,2021-04-23,2
+614,614,Patellofemoral Pain Syndrome,severe,2020-10-06,3
+615,615,Osteoarthritis,moderate,2016-11-24,2
+616,616,Osteoarthritis,mild,2016-02-14,1
+617,617,Rheumatoid Arthritis,mild,2020-05-29,1
+618,618,Osteoarthritis,mild,2021-09-04,1
+619,619,Osteoarthritis,severe,2020-06-28,3
+620,620,PCL Tear,moderate,2018-12-12,2
+621,621,Osteoarthritis,mild,2020-10-04,1
+622,622,Patellofemoral Pain Syndrome,mild,2016-09-12,1
+623,623,Rheumatoid Arthritis,mild,2022-03-10,1
+624,624,ACL Tear,mild,2021-08-29,1
+625,625,Osteoarthritis,severe,2021-08-19,3
+626,626,Baker's Cyst,mild,2022-03-13,1
+627,627,PCL Tear,mild,2018-03-05,1
+628,628,ACL Tear,moderate,2020-05-08,2
+629,629,Rheumatoid Arthritis,severe,2021-02-07,3
+630,630,Meniscus Tear,moderate,2015-08-16,2
+631,631,Baker's Cyst,mild,2020-09-16,1
+632,632,Rheumatoid Arthritis,mild,2015-11-28,1
+633,633,PCL Tear,mild,2015-06-02,1
+634,634,Baker's Cyst,mild,2016-11-08,1
+635,635,Osteoarthritis,severe,2019-03-22,3
+636,636,Meniscus Tear,severe,2019-07-15,3
+637,637,Meniscus Tear,severe,2019-10-31,3
+638,638,PCL Tear,severe,2017-04-07,3
+639,639,Osteoarthritis,moderate,2017-03-12,2
+640,640,Meniscus Tear,severe,2020-03-23,3
+641,641,PCL Tear,severe,2016-02-18,3
+642,642,PCL Tear,severe,2019-04-23,3
+643,643,Baker's Cyst,severe,2021-12-08,3
+644,644,Baker's Cyst,mild,2015-04-15,1
+645,645,PCL Tear,mild,2018-06-06,1
+646,646,Rheumatoid Arthritis,severe,2019-04-06,3
+647,647,Rheumatoid Arthritis,severe,2018-07-18,3
+648,648,Osteoarthritis,mild,2017-01-08,1
+649,649,Rheumatoid Arthritis,moderate,2015-01-31,2
+650,650,Osteoarthritis,severe,2017-04-11,3
+651,651,Patellofemoral Pain Syndrome,severe,2022-06-19,3
+652,652,Meniscus Tear,moderate,2015-06-13,2
+653,653,Patellofemoral Pain Syndrome,severe,2017-12-26,3
+654,654,ACL Tear,severe,2019-08-31,3
+655,655,Osteoarthritis,mild,2019-02-11,1
+656,656,Rheumatoid Arthritis,moderate,2016-01-27,2
+657,657,Patellofemoral Pain Syndrome,mild,2016-05-27,1
+658,658,ACL Tear,moderate,2017-11-13,2
+659,659,Baker's Cyst,mild,2020-05-27,1
+660,660,Meniscus Tear,severe,2016-03-23,3
+661,661,Osteoarthritis,severe,2020-07-15,3
+662,662,Meniscus Tear,mild,2020-03-28,1
+663,663,Rheumatoid Arthritis,mild,2020-03-05,1
+664,664,PCL Tear,moderate,2022-04-17,2
+665,665,PCL Tear,severe,2015-07-27,3
+666,666,Meniscus Tear,mild,2015-08-17,1
+667,667,Osteoarthritis,severe,2018-04-14,3
+668,668,Osteoarthritis,moderate,2018-07-25,2
+669,669,Patellofemoral Pain Syndrome,mild,2015-10-24,1
+670,670,Patellofemoral Pain Syndrome,moderate,2022-08-29,2
+671,671,PCL Tear,severe,2015-08-22,3
+672,672,Rheumatoid Arthritis,mild,2022-08-02,1
+673,673,PCL Tear,severe,2018-09-04,3
+674,674,PCL Tear,moderate,2016-07-21,2
+675,675,PCL Tear,mild,2018-07-16,1
+676,676,Patellofemoral Pain Syndrome,severe,2021-03-15,3
+677,677,Meniscus Tear,mild,2017-09-03,1
+678,678,Baker's Cyst,moderate,2015-12-15,2
+679,679,Patellofemoral Pain Syndrome,mild,2015-08-10,1
+680,680,PCL Tear,severe,2016-12-22,3
+681,681,Rheumatoid Arthritis,severe,2020-08-07,3
+682,682,Baker's Cyst,mild,2015-02-08,1
+683,683,Meniscus Tear,severe,2020-02-24,3
+684,684,Meniscus Tear,severe,2016-11-17,3
+685,685,PCL Tear,moderate,2020-06-09,2
+686,686,ACL Tear,moderate,2017-10-26,2
+687,687,Osteoarthritis,mild,2019-02-04,1
+688,688,Rheumatoid Arthritis,severe,2016-04-20,3
+689,689,Patellofemoral Pain Syndrome,moderate,2020-02-24,2
+690,690,Baker's Cyst,moderate,2021-04-13,2
+691,691,Osteoarthritis,severe,2020-11-28,3
+692,692,ACL Tear,mild,2022-05-06,1
+693,693,Rheumatoid Arthritis,mild,2022-05-14,1
+694,694,Patellofemoral Pain Syndrome,moderate,2021-08-28,2
+695,695,Osteoarthritis,moderate,2015-03-01,2
+696,696,Osteoarthritis,severe,2022-03-03,3
+697,697,Baker's Cyst,severe,2017-07-05,3
+698,698,Rheumatoid Arthritis,mild,2020-12-28,1
+699,699,PCL Tear,mild,2015-09-17,1
+700,700,Meniscus Tear,mild,2020-05-30,1
+701,701,PCL Tear,severe,2016-06-21,3
+702,702,Rheumatoid Arthritis,moderate,2022-02-21,2
+703,703,ACL Tear,mild,2022-07-28,1
+704,704,Osteoarthritis,mild,2017-07-01,1
+705,705,Osteoarthritis,mild,2018-07-06,1
+706,706,Osteoarthritis,moderate,2021-01-19,2
+707,707,Osteoarthritis,moderate,2017-12-03,2
+708,708,Osteoarthritis,mild,2017-07-16,1
+709,709,PCL Tear,moderate,2017-11-03,2
+710,710,Patellofemoral Pain Syndrome,severe,2021-03-22,3
+711,711,Patellofemoral Pain Syndrome,mild,2022-06-25,1
+712,712,Rheumatoid Arthritis,moderate,2015-12-22,2
+713,713,Osteoarthritis,mild,2021-08-07,1
+714,714,Osteoarthritis,mild,2017-06-30,1
+715,715,PCL Tear,mild,2017-05-06,1
+716,716,Rheumatoid Arthritis,severe,2019-01-22,3
+717,717,Patellofemoral Pain Syndrome,severe,2021-02-20,3
+718,718,Baker's Cyst,moderate,2020-11-06,2
+719,719,Baker's Cyst,severe,2022-10-08,3
+720,720,Patellofemoral Pain Syndrome,moderate,2017-04-21,2
+721,721,Meniscus Tear,moderate,2016-08-25,2
+722,722,Baker's Cyst,mild,2022-05-23,1
+723,723,Meniscus Tear,moderate,2017-04-08,2
+724,724,Baker's Cyst,severe,2016-01-22,3
+725,725,PCL Tear,mild,2019-02-18,1
+726,726,Osteoarthritis,mild,2022-01-24,1
+727,727,Baker's Cyst,severe,2021-06-22,3
+728,728,ACL Tear,mild,2020-10-31,1
+729,729,Meniscus Tear,moderate,2017-07-02,2
+730,730,Baker's Cyst,mild,2017-06-07,1
+731,731,Baker's Cyst,severe,2020-01-28,3
+732,732,Baker's Cyst,moderate,2018-02-18,2
+733,733,PCL Tear,mild,2019-07-12,1
+734,734,Osteoarthritis,severe,2022-10-09,3
+735,735,PCL Tear,moderate,2020-06-03,2
+736,736,Baker's Cyst,mild,2019-12-24,1
+737,737,Patellofemoral Pain Syndrome,severe,2021-07-05,3
+738,738,Osteoarthritis,severe,2015-08-15,3
+739,739,Patellofemoral Pain Syndrome,severe,2019-07-09,3
+740,740,Rheumatoid Arthritis,severe,2015-01-31,3
+741,741,Rheumatoid Arthritis,mild,2016-04-24,1
+742,742,Patellofemoral Pain Syndrome,severe,2020-11-30,3
+743,743,PCL Tear,moderate,2020-06-28,2
+744,744,ACL Tear,moderate,2021-12-12,2
+745,745,PCL Tear,severe,2019-03-09,3
+746,746,Patellofemoral Pain Syndrome,moderate,2019-01-26,2
+747,747,Rheumatoid Arthritis,mild,2015-09-04,1
+748,748,PCL Tear,mild,2015-10-30,1
+749,749,ACL Tear,mild,2016-06-24,1
+750,750,PCL Tear,severe,2020-07-06,3
+751,751,ACL Tear,severe,2021-06-15,3
+752,752,Meniscus Tear,mild,2015-02-05,1
+753,753,Meniscus Tear,severe,2015-01-23,3
+754,754,Baker's Cyst,severe,2016-10-13,3
+755,755,Patellofemoral Pain Syndrome,mild,2016-09-05,1
+756,756,Patellofemoral Pain Syndrome,mild,2016-11-28,1
+757,757,Patellofemoral Pain Syndrome,mild,2022-12-12,1
+758,758,Meniscus Tear,mild,2021-10-22,1
+759,759,Rheumatoid Arthritis,moderate,2022-11-30,2
+760,760,PCL Tear,moderate,2018-03-22,2
+761,761,Rheumatoid Arthritis,mild,2018-07-26,1
+762,762,Baker's Cyst,mild,2022-02-01,1
+763,763,Osteoarthritis,severe,2015-06-15,3
+764,764,Rheumatoid Arthritis,moderate,2018-02-26,2
+765,765,Osteoarthritis,mild,2018-04-05,1
+766,766,PCL Tear,mild,2020-07-24,1
+767,767,Patellofemoral Pain Syndrome,severe,2020-01-13,3
+768,768,Rheumatoid Arthritis,mild,2017-01-04,1
+769,769,PCL Tear,moderate,2018-05-19,2
+770,770,PCL Tear,severe,2018-01-17,3
+771,771,Baker's Cyst,mild,2020-05-11,1
+772,772,Baker's Cyst,mild,2018-10-23,1
+773,773,Osteoarthritis,mild,2020-10-27,1
+774,774,Osteoarthritis,moderate,2016-07-09,2
+775,775,Patellofemoral Pain Syndrome,severe,2019-04-12,3
+776,776,Patellofemoral Pain Syndrome,mild,2015-06-30,1
+777,777,Meniscus Tear,mild,2018-09-28,1
+778,778,ACL Tear,moderate,2019-01-28,2
+779,779,Patellofemoral Pain Syndrome,moderate,2022-09-28,2
+780,780,Patellofemoral Pain Syndrome,severe,2015-03-24,3
+781,781,Patellofemoral Pain Syndrome,severe,2019-01-11,3
+782,782,Osteoarthritis,severe,2022-05-04,3
+783,783,Meniscus Tear,mild,2018-06-14,1
+784,784,PCL Tear,moderate,2018-07-01,2
+785,785,Patellofemoral Pain Syndrome,moderate,2019-05-15,2
+786,786,PCL Tear,mild,2016-07-31,1
+787,787,Meniscus Tear,severe,2017-10-11,3
+788,788,Osteoarthritis,severe,2020-08-14,3
+789,789,Baker's Cyst,moderate,2017-03-28,2
+790,790,Rheumatoid Arthritis,severe,2018-09-24,3
+791,791,Osteoarthritis,moderate,2018-10-19,2
+792,792,Meniscus Tear,moderate,2020-10-26,2
+793,793,Osteoarthritis,mild,2020-08-01,1
+794,794,Osteoarthritis,severe,2018-07-16,3
+795,795,Baker's Cyst,mild,2016-05-23,1
+796,796,Baker's Cyst,severe,2017-09-20,3
+797,797,Patellofemoral Pain Syndrome,mild,2019-03-30,1
+798,798,Baker's Cyst,mild,2020-10-25,1
+799,799,Rheumatoid Arthritis,moderate,2016-07-01,2
+800,800,ACL Tear,moderate,2015-04-03,2
+801,801,Rheumatoid Arthritis,mild,2021-04-15,1
+802,802,Patellofemoral Pain Syndrome,moderate,2019-01-30,2
+803,803,Patellofemoral Pain Syndrome,mild,2018-05-27,1
+804,804,Patellofemoral Pain Syndrome,severe,2019-06-13,3
+805,805,Osteoarthritis,moderate,2015-01-25,2
+806,806,ACL Tear,mild,2016-06-27,1
+807,807,Patellofemoral Pain Syndrome,mild,2018-04-01,1
+808,808,Baker's Cyst,mild,2018-03-13,1
+809,809,ACL Tear,moderate,2015-04-14,2
+810,810,Rheumatoid Arthritis,moderate,2018-08-24,2
+811,811,Rheumatoid Arthritis,moderate,2019-02-25,2
+812,812,Meniscus Tear,severe,2019-05-30,3
+813,813,Rheumatoid Arthritis,mild,2022-10-15,1
+814,814,Baker's Cyst,severe,2020-11-11,3
+815,815,Baker's Cyst,severe,2016-02-02,3
+816,816,ACL Tear,moderate,2018-09-14,2
+817,817,Osteoarthritis,moderate,2022-03-13,2
+818,818,Osteoarthritis,severe,2018-07-18,3
+819,819,Osteoarthritis,severe,2022-05-24,3
+820,820,Meniscus Tear,mild,2016-03-11,1
+821,821,Osteoarthritis,severe,2018-12-24,3
+822,822,Patellofemoral Pain Syndrome,moderate,2022-08-18,2
+823,823,Patellofemoral Pain Syndrome,severe,2017-04-28,3
+824,824,Osteoarthritis,severe,2018-11-02,3
+825,825,Osteoarthritis,severe,2022-04-24,3
+826,826,PCL Tear,severe,2018-03-11,3
+827,827,ACL Tear,mild,2016-07-09,1
+828,828,Rheumatoid Arthritis,mild,2017-04-16,1
+829,829,Osteoarthritis,mild,2020-11-22,1
+830,830,Baker's Cyst,moderate,2021-06-11,2
+831,831,Baker's Cyst,mild,2019-05-04,1
+832,832,Osteoarthritis,moderate,2017-11-12,2
+833,833,PCL Tear,mild,2022-02-12,1
+834,834,Meniscus Tear,moderate,2021-07-08,2
+835,835,Rheumatoid Arthritis,severe,2016-03-24,3
+836,836,Patellofemoral Pain Syndrome,moderate,2015-09-13,2
+837,837,Rheumatoid Arthritis,severe,2022-09-24,3
+838,838,Rheumatoid Arthritis,moderate,2017-09-22,2
+839,839,Rheumatoid Arthritis,mild,2016-04-18,1
+840,840,ACL Tear,mild,2019-09-19,1
+841,841,PCL Tear,mild,2022-09-16,1
+842,842,Osteoarthritis,severe,2015-03-12,3
+843,843,Meniscus Tear,moderate,2020-09-21,2
+844,844,Osteoarthritis,moderate,2022-01-23,2
+845,845,Osteoarthritis,mild,2018-04-01,1
+846,846,Baker's Cyst,severe,2020-03-23,3
+847,847,PCL Tear,severe,2021-07-09,3
+848,848,Rheumatoid Arthritis,moderate,2019-06-09,2
+849,849,ACL Tear,moderate,2017-08-02,2
+850,850,Baker's Cyst,mild,2016-12-25,1
+851,851,Baker's Cyst,severe,2016-11-20,3
+852,852,Rheumatoid Arthritis,severe,2021-11-29,3
+853,853,Patellofemoral Pain Syndrome,severe,2022-08-23,3
+854,854,PCL Tear,mild,2018-11-04,1
+855,855,Rheumatoid Arthritis,severe,2020-10-24,3
+856,856,Meniscus Tear,severe,2019-10-25,3
+857,857,Meniscus Tear,moderate,2020-06-11,2
+858,858,Rheumatoid Arthritis,moderate,2019-11-12,2
+859,859,ACL Tear,moderate,2022-08-06,2
+860,860,PCL Tear,severe,2020-05-01,3
+861,861,Patellofemoral Pain Syndrome,severe,2020-04-19,3
+862,862,Meniscus Tear,severe,2015-10-01,3
+863,863,Osteoarthritis,severe,2018-09-04,3
+864,864,PCL Tear,moderate,2022-08-02,2
+865,865,PCL Tear,severe,2022-09-15,3
+866,866,Patellofemoral Pain Syndrome,severe,2018-05-25,3
+867,867,Osteoarthritis,mild,2022-05-15,1
+868,868,Rheumatoid Arthritis,severe,2021-06-10,3
+869,869,Baker's Cyst,moderate,2020-02-20,2
+870,870,Osteoarthritis,severe,2019-04-21,3
+871,871,Osteoarthritis,severe,2018-03-06,3
+872,872,Rheumatoid Arthritis,mild,2019-04-04,1
+873,873,Patellofemoral Pain Syndrome,moderate,2017-01-12,2
+874,874,ACL Tear,mild,2016-02-08,1
+875,875,Baker's Cyst,severe,2018-01-13,3
+876,876,Rheumatoid Arthritis,severe,2019-05-25,3
+877,877,Baker's Cyst,mild,2019-10-23,1
+878,878,Baker's Cyst,mild,2020-08-03,1
+879,879,PCL Tear,mild,2020-03-06,1
+880,880,Rheumatoid Arthritis,mild,2016-04-18,1
+881,881,Meniscus Tear,severe,2016-04-17,3
+882,882,ACL Tear,mild,2016-04-21,1
+883,883,Rheumatoid Arthritis,severe,2021-12-06,3
+884,884,Baker's Cyst,mild,2017-06-18,1
+885,885,PCL Tear,moderate,2021-04-26,2
+886,886,Osteoarthritis,severe,2020-10-19,3
+887,887,Patellofemoral Pain Syndrome,severe,2017-08-29,3
+888,888,Osteoarthritis,mild,2017-09-08,1
+889,889,Osteoarthritis,moderate,2022-08-22,2
+890,890,Patellofemoral Pain Syndrome,severe,2015-12-06,3
+891,891,PCL Tear,mild,2016-06-28,1
+892,892,ACL Tear,severe,2020-02-24,3
+893,893,Rheumatoid Arthritis,severe,2018-02-05,3
+894,894,Patellofemoral Pain Syndrome,severe,2020-04-05,3
+895,895,Osteoarthritis,moderate,2018-03-25,2
+896,896,ACL Tear,severe,2021-02-26,3
+897,897,ACL Tear,moderate,2019-05-24,2
+898,898,Baker's Cyst,severe,2020-08-09,3
+899,899,Patellofemoral Pain Syndrome,severe,2017-10-16,3
+900,900,Patellofemoral Pain Syndrome,mild,2020-09-08,1
+901,901,PCL Tear,mild,2022-04-24,1
+902,902,Osteoarthritis,moderate,2017-02-26,2
+903,903,PCL Tear,mild,2018-05-13,1
+904,904,Osteoarthritis,mild,2020-04-17,1
+905,905,Baker's Cyst,moderate,2017-05-17,2
+906,906,Baker's Cyst,severe,2015-08-09,3
+907,907,Osteoarthritis,moderate,2015-09-30,2
+908,908,Baker's Cyst,mild,2015-09-13,1
+909,909,Osteoarthritis,mild,2021-02-27,1
+910,910,Patellofemoral Pain Syndrome,mild,2022-02-28,1
+911,911,Baker's Cyst,moderate,2021-04-29,2
+912,912,ACL Tear,moderate,2020-12-08,2
+913,913,Baker's Cyst,mild,2016-10-12,1
+914,914,Osteoarthritis,severe,2020-03-22,3
+915,915,Patellofemoral Pain Syndrome,severe,2016-12-08,3
+916,916,Baker's Cyst,moderate,2019-08-12,2
+917,917,Osteoarthritis,mild,2021-02-22,1
+918,918,Osteoarthritis,moderate,2015-06-18,2
+919,919,Patellofemoral Pain Syndrome,severe,2017-07-04,3
+920,920,Meniscus Tear,moderate,2021-10-14,2
+921,921,ACL Tear,mild,2015-12-09,1
+922,922,Rheumatoid Arthritis,severe,2017-02-09,3
+923,923,ACL Tear,severe,2018-09-06,3
+924,924,PCL Tear,moderate,2021-08-09,2
+925,925,Osteoarthritis,moderate,2017-01-22,2
+926,926,ACL Tear,moderate,2015-12-30,2
+927,927,Osteoarthritis,severe,2020-08-14,3
+928,928,Osteoarthritis,moderate,2020-02-02,2
+929,929,PCL Tear,moderate,2020-03-01,2
+930,930,Rheumatoid Arthritis,moderate,2016-04-27,2
+931,931,ACL Tear,mild,2021-01-15,1
+932,932,Osteoarthritis,severe,2017-08-16,3
+933,933,Rheumatoid Arthritis,moderate,2018-01-18,2
+934,934,Meniscus Tear,mild,2020-01-08,1
+935,935,Baker's Cyst,mild,2019-03-10,1
+936,936,Meniscus Tear,moderate,2015-04-03,2
+937,937,Meniscus Tear,moderate,2016-12-24,2
+938,938,Patellofemoral Pain Syndrome,moderate,2018-07-20,2
+939,939,Rheumatoid Arthritis,moderate,2018-02-03,2
+940,940,Patellofemoral Pain Syndrome,severe,2019-12-25,3
+941,941,Rheumatoid Arthritis,moderate,2019-02-03,2
+942,942,Rheumatoid Arthritis,severe,2018-05-19,3
+943,943,Rheumatoid Arthritis,mild,2016-05-09,1
+944,944,Rheumatoid Arthritis,mild,2018-07-26,1
+945,945,Patellofemoral Pain Syndrome,moderate,2016-03-14,2
+946,946,PCL Tear,moderate,2020-12-03,2
+947,947,Rheumatoid Arthritis,mild,2020-09-09,1
+948,948,Rheumatoid Arthritis,moderate,2019-01-31,2
+949,949,Rheumatoid Arthritis,moderate,2017-03-01,2
+950,950,Baker's Cyst,moderate,2021-01-22,2
+951,951,Baker's Cyst,mild,2018-04-17,1
+952,952,PCL Tear,moderate,2016-02-24,2
+953,953,Patellofemoral Pain Syndrome,moderate,2018-02-18,2
+954,954,Osteoarthritis,severe,2017-10-29,3
+955,955,Rheumatoid Arthritis,severe,2020-11-15,3
+956,956,Osteoarthritis,mild,2015-07-09,1
+957,957,Baker's Cyst,moderate,2019-09-28,2
+958,958,PCL Tear,mild,2021-09-29,1
+959,959,ACL Tear,mild,2016-12-27,1
+960,960,Meniscus Tear,mild,2019-02-09,1
+961,961,Osteoarthritis,moderate,2021-01-26,2
+962,962,Rheumatoid Arthritis,severe,2021-04-10,3
+963,963,Rheumatoid Arthritis,mild,2018-03-10,1
+964,964,Osteoarthritis,severe,2020-03-25,3
+965,965,Patellofemoral Pain Syndrome,moderate,2020-10-13,2
+966,966,Meniscus Tear,moderate,2018-12-21,2
+967,967,Osteoarthritis,moderate,2019-04-14,2
+968,968,PCL Tear,mild,2019-08-10,1
+969,969,Baker's Cyst,severe,2021-04-18,3
+970,970,Patellofemoral Pain Syndrome,mild,2021-01-28,1
+971,971,ACL Tear,severe,2022-05-21,3
+972,972,Osteoarthritis,severe,2022-03-05,3
+973,973,Osteoarthritis,severe,2015-09-25,3
+974,974,ACL Tear,mild,2015-01-18,1
+975,975,PCL Tear,mild,2016-08-13,1
+976,976,Rheumatoid Arthritis,mild,2016-10-13,1
+977,977,Meniscus Tear,moderate,2015-11-07,2
+978,978,Baker's Cyst,severe,2018-03-20,3
+979,979,ACL Tear,severe,2020-07-01,3
+980,980,Patellofemoral Pain Syndrome,moderate,2019-06-02,2
+981,981,Baker's Cyst,mild,2015-08-26,1
+982,982,Rheumatoid Arthritis,severe,2022-11-12,3
+983,983,Osteoarthritis,severe,2017-01-19,3
+984,984,Rheumatoid Arthritis,moderate,2015-02-10,2
+985,985,ACL Tear,mild,2018-05-04,1
+986,986,Baker's Cyst,severe,2020-05-13,3
+987,987,Baker's Cyst,moderate,2015-06-24,2
+988,988,Meniscus Tear,severe,2016-01-06,3
+989,989,Patellofemoral Pain Syndrome,moderate,2022-12-11,2
+990,990,Rheumatoid Arthritis,mild,2020-12-10,1
+991,991,Patellofemoral Pain Syndrome,mild,2021-01-22,1
+992,992,PCL Tear,moderate,2017-12-03,2
+993,993,Patellofemoral Pain Syndrome,severe,2022-08-03,3
+994,994,Meniscus Tear,severe,2015-01-24,3
+995,995,Osteoarthritis,severe,2015-02-03,3
+996,996,Patellofemoral Pain Syndrome,severe,2016-11-18,3
+997,997,Rheumatoid Arthritis,moderate,2019-10-29,2
+998,998,PCL Tear,moderate,2019-09-10,2
+999,999,Osteoarthritis,severe,2019-07-05,3
+1000,1000,PCL Tear,moderate,2018-04-03,2

@@ -1,0 +1,1001 @@
+procedure_id,patient_id,procedure_name,success_rate
+1,760,Knee Arthroscopy,91.2
+2,831,Cyst Removal,76.7
+3,109,Total Knee Replacement,90.1
+4,36,Knee Arthroscopy,82.2
+5,861,PCL Reconstruction,73.0
+6,452,Patellar Realignment,80.9
+7,867,PCL Reconstruction,72.3
+8,286,Total Knee Replacement,75.2
+9,409,PCL Reconstruction,72.2
+10,373,Cyst Removal,70.2
+11,185,Partial Knee Replacement,89.2
+12,350,ACL Reconstruction,89.3
+13,461,Partial Knee Replacement,88.4
+14,67,Meniscus Repair,88.9
+15,987,Total Knee Replacement,70.1
+16,165,Cyst Removal,88.6
+17,822,ACL Reconstruction,70.8
+18,214,Cyst Removal,73.9
+19,806,Total Knee Replacement,74.8
+20,530,Meniscus Repair,83.6
+21,943,PCL Reconstruction,73.5
+22,37,Partial Knee Replacement,93.0
+23,143,Knee Arthroscopy,89.3
+24,92,Total Knee Replacement,93.2
+25,369,ACL Reconstruction,83.9
+26,253,Cyst Removal,86.7
+27,952,Patellar Realignment,89.7
+28,293,Partial Knee Replacement,86.7
+29,725,Meniscus Repair,77.9
+30,407,PCL Reconstruction,70.3
+31,173,Knee Arthroscopy,72.3
+32,530,Knee Arthroscopy,85.9
+33,758,Patellar Realignment,92.8
+34,18,ACL Reconstruction,91.2
+35,721,Patellar Realignment,71.4
+36,446,Meniscus Repair,81.4
+37,914,Patellar Realignment,86.4
+38,112,Knee Arthroscopy,74.1
+39,916,PCL Reconstruction,87.8
+40,950,Partial Knee Replacement,75.8
+41,943,ACL Reconstruction,85.6
+42,894,Cyst Removal,94.1
+43,405,Partial Knee Replacement,83.1
+44,913,PCL Reconstruction,83.0
+45,338,ACL Reconstruction,90.0
+46,244,Meniscus Repair,73.1
+47,406,Total Knee Replacement,89.7
+48,476,Cyst Removal,94.1
+49,748,Patellar Realignment,73.8
+50,794,Meniscus Repair,75.7
+51,167,Partial Knee Replacement,70.3
+52,577,PCL Reconstruction,73.3
+53,452,Meniscus Repair,89.5
+54,465,Knee Arthroscopy,75.3
+55,846,Partial Knee Replacement,82.9
+56,948,Knee Arthroscopy,72.6
+57,241,Patellar Realignment,83.7
+58,307,ACL Reconstruction,83.9
+59,884,ACL Reconstruction,87.0
+60,521,Cyst Removal,70.9
+61,997,Knee Arthroscopy,80.3
+62,644,Cyst Removal,71.0
+63,843,ACL Reconstruction,79.7
+64,996,PCL Reconstruction,78.2
+65,78,PCL Reconstruction,83.5
+66,42,ACL Reconstruction,71.7
+67,675,Knee Arthroscopy,87.1
+68,568,Knee Arthroscopy,79.6
+69,984,Cyst Removal,84.2
+70,463,Meniscectomy,90.8
+71,500,ACL Reconstruction,85.8
+72,171,Total Knee Replacement,78.8
+73,58,ACL Reconstruction,71.1
+74,448,Knee Arthroscopy,73.2
+75,772,Knee Arthroscopy,75.3
+76,808,Total Knee Replacement,72.1
+77,304,Meniscectomy,90.7
+78,790,Knee Arthroscopy,76.5
+79,612,Cyst Removal,94.9
+80,596,Patellar Realignment,74.3
+81,675,Meniscus Repair,82.6
+82,634,ACL Reconstruction,88.4
+83,234,ACL Reconstruction,84.5
+84,367,Meniscectomy,70.1
+85,255,ACL Reconstruction,83.0
+86,276,Total Knee Replacement,94.8
+87,368,Meniscus Repair,91.3
+88,865,Cyst Removal,81.0
+89,707,Total Knee Replacement,83.5
+90,330,Cyst Removal,82.5
+91,978,Patellar Realignment,79.3
+92,338,ACL Reconstruction,76.7
+93,540,Total Knee Replacement,73.4
+94,46,ACL Reconstruction,91.6
+95,297,Total Knee Replacement,77.8
+96,451,Cyst Removal,82.2
+97,855,ACL Reconstruction,78.3
+98,145,ACL Reconstruction,71.6
+99,243,Cyst Removal,88.2
+100,818,Meniscus Repair,94.4
+101,569,Meniscectomy,90.1
+102,898,Total Knee Replacement,76.9
+103,96,Patellar Realignment,73.6
+104,257,PCL Reconstruction,81.1
+105,92,Meniscus Repair,78.1
+106,374,Knee Arthroscopy,86.6
+107,180,Cyst Removal,89.3
+108,935,Meniscus Repair,70.8
+109,726,Total Knee Replacement,81.1
+110,484,Knee Arthroscopy,80.3
+111,330,Meniscectomy,94.6
+112,729,Knee Arthroscopy,72.4
+113,861,Cyst Removal,95.0
+114,374,Knee Arthroscopy,72.6
+115,519,Meniscectomy,78.8
+116,212,Partial Knee Replacement,91.5
+117,553,PCL Reconstruction,80.0
+118,915,Total Knee Replacement,77.6
+119,241,Meniscus Repair,89.2
+120,821,Knee Arthroscopy,90.8
+121,155,ACL Reconstruction,78.6
+122,883,Cyst Removal,74.2
+123,106,Meniscus Repair,82.6
+124,311,Total Knee Replacement,91.1
+125,303,PCL Reconstruction,81.0
+126,344,Cyst Removal,73.4
+127,759,Meniscus Repair,71.9
+128,669,Knee Arthroscopy,75.9
+129,348,Partial Knee Replacement,74.8
+130,463,Patellar Realignment,91.1
+131,796,Cyst Removal,92.3
+132,735,PCL Reconstruction,89.7
+133,379,Total Knee Replacement,86.3
+134,163,Cyst Removal,74.8
+135,294,PCL Reconstruction,85.2
+136,442,Meniscus Repair,82.2
+137,891,ACL Reconstruction,84.1
+138,520,Knee Arthroscopy,90.0
+139,957,Cyst Removal,90.1
+140,94,Knee Arthroscopy,87.8
+141,236,Total Knee Replacement,78.2
+142,164,Cyst Removal,86.0
+143,334,Cyst Removal,93.3
+144,552,ACL Reconstruction,79.4
+145,681,PCL Reconstruction,93.0
+146,112,Cyst Removal,85.5
+147,419,Knee Arthroscopy,84.6
+148,170,Total Knee Replacement,92.6
+149,352,Meniscus Repair,71.4
+150,799,Total Knee Replacement,89.4
+151,471,Meniscus Repair,78.3
+152,335,Knee Arthroscopy,81.7
+153,407,ACL Reconstruction,76.1
+154,9,Partial Knee Replacement,72.8
+155,225,ACL Reconstruction,80.0
+156,244,Knee Arthroscopy,85.0
+157,249,Meniscectomy,89.1
+158,93,Cyst Removal,82.9
+159,624,Meniscectomy,72.2
+160,32,Meniscus Repair,80.9
+161,354,Total Knee Replacement,91.9
+162,186,Meniscus Repair,70.8
+163,395,Total Knee Replacement,88.6
+164,118,ACL Reconstruction,73.8
+165,368,ACL Reconstruction,93.8
+166,540,Knee Arthroscopy,81.4
+167,801,Knee Arthroscopy,84.3
+168,392,PCL Reconstruction,73.1
+169,768,Partial Knee Replacement,79.8
+170,954,Meniscus Repair,78.6
+171,79,Total Knee Replacement,86.0
+172,515,PCL Reconstruction,78.6
+173,226,ACL Reconstruction,85.4
+174,65,Cyst Removal,70.7
+175,14,Cyst Removal,82.0
+176,906,Knee Arthroscopy,90.1
+177,395,Knee Arthroscopy,75.1
+178,109,ACL Reconstruction,88.8
+179,848,Meniscectomy,78.5
+180,306,ACL Reconstruction,78.1
+181,60,Total Knee Replacement,94.8
+182,142,Cyst Removal,75.4
+183,957,Knee Arthroscopy,94.0
+184,287,Knee Arthroscopy,90.3
+185,997,Cyst Removal,76.3
+186,780,Total Knee Replacement,93.7
+187,12,Cyst Removal,80.2
+188,514,Knee Arthroscopy,88.8
+189,618,Partial Knee Replacement,78.9
+190,175,ACL Reconstruction,72.9
+191,791,Meniscus Repair,74.5
+192,703,Meniscectomy,78.5
+193,582,Total Knee Replacement,77.7
+194,632,Meniscus Repair,75.6
+195,325,PCL Reconstruction,74.2
+196,202,Partial Knee Replacement,73.7
+197,868,Cyst Removal,79.6
+198,593,ACL Reconstruction,77.7
+199,426,Total Knee Replacement,70.7
+200,40,PCL Reconstruction,90.1
+201,85,Cyst Removal,75.4
+202,15,Knee Arthroscopy,79.1
+203,204,Knee Arthroscopy,83.9
+204,175,ACL Reconstruction,87.2
+205,43,Total Knee Replacement,87.4
+206,953,Knee Arthroscopy,71.2
+207,654,PCL Reconstruction,79.6
+208,348,Cyst Removal,90.1
+209,983,Total Knee Replacement,93.0
+210,470,Total Knee Replacement,89.3
+211,404,Total Knee Replacement,90.2
+212,577,PCL Reconstruction,78.7
+213,461,Knee Arthroscopy,75.8
+214,867,Meniscus Repair,70.9
+215,782,Meniscus Repair,91.4
+216,957,Total Knee Replacement,79.7
+217,850,ACL Reconstruction,73.9
+218,649,Meniscectomy,90.9
+219,814,Total Knee Replacement,94.3
+220,73,Knee Arthroscopy,93.7
+221,253,Total Knee Replacement,86.2
+222,875,Cyst Removal,85.1
+223,651,Partial Knee Replacement,92.5
+224,420,Patellar Realignment,85.0
+225,525,ACL Reconstruction,81.5
+226,554,Meniscus Repair,73.2
+227,590,Knee Arthroscopy,78.4
+228,173,Meniscus Repair,92.6
+229,652,ACL Reconstruction,78.1
+230,524,Total Knee Replacement,88.0
+231,886,Meniscectomy,71.9
+232,308,Total Knee Replacement,80.5
+233,641,PCL Reconstruction,94.3
+234,176,ACL Reconstruction,88.8
+235,347,Knee Arthroscopy,76.8
+236,615,ACL Reconstruction,89.1
+237,495,Meniscus Repair,84.7
+238,505,ACL Reconstruction,90.3
+239,265,Partial Knee Replacement,71.0
+240,198,Meniscus Repair,88.2
+241,668,Partial Knee Replacement,88.5
+242,134,Meniscectomy,91.1
+243,730,ACL Reconstruction,70.4
+244,916,Total Knee Replacement,81.1
+245,60,Cyst Removal,93.6
+246,476,Patellar Realignment,75.2
+247,507,Meniscectomy,94.9
+248,551,Meniscectomy,71.3
+249,464,Knee Arthroscopy,72.7
+250,526,PCL Reconstruction,95.0
+251,749,Total Knee Replacement,74.4
+252,946,Knee Arthroscopy,81.2
+253,878,Meniscectomy,76.9
+254,225,Cyst Removal,94.9
+255,191,Patellar Realignment,83.3
+256,145,Meniscectomy,94.5
+257,329,Partial Knee Replacement,87.0
+258,2,Knee Arthroscopy,93.6
+259,276,Cyst Removal,92.5
+260,634,ACL Reconstruction,70.2
+261,245,PCL Reconstruction,91.4
+262,753,Cyst Removal,73.7
+263,316,Meniscus Repair,85.1
+264,520,PCL Reconstruction,88.4
+265,789,Partial Knee Replacement,92.7
+266,674,Patellar Realignment,81.5
+267,979,ACL Reconstruction,88.0
+268,101,Knee Arthroscopy,84.0
+269,50,PCL Reconstruction,78.6
+270,988,Cyst Removal,81.5
+271,922,Total Knee Replacement,76.4
+272,10,Knee Arthroscopy,72.8
+273,22,Meniscectomy,73.2
+274,677,Meniscectomy,87.0
+275,366,Meniscectomy,70.7
+276,798,Total Knee Replacement,88.4
+277,580,Cyst Removal,93.6
+278,656,Total Knee Replacement,78.2
+279,608,Total Knee Replacement,80.5
+280,224,Cyst Removal,76.7
+281,860,PCL Reconstruction,80.2
+282,626,Knee Arthroscopy,80.0
+283,320,ACL Reconstruction,70.3
+284,785,PCL Reconstruction,80.8
+285,949,Cyst Removal,79.1
+286,221,Meniscectomy,87.9
+287,453,PCL Reconstruction,74.2
+288,709,Partial Knee Replacement,84.0
+289,839,Cyst Removal,87.9
+290,210,Meniscus Repair,77.9
+291,736,ACL Reconstruction,79.8
+292,606,Partial Knee Replacement,87.6
+293,447,Cyst Removal,73.1
+294,887,Partial Knee Replacement,90.7
+295,88,Meniscus Repair,94.3
+296,518,Meniscectomy,87.3
+297,356,Meniscus Repair,85.4
+298,504,PCL Reconstruction,80.1
+299,629,Cyst Removal,79.3
+300,567,Total Knee Replacement,83.7
+301,116,Meniscectomy,71.9
+302,175,Knee Arthroscopy,75.0
+303,980,Total Knee Replacement,82.5
+304,917,Knee Arthroscopy,76.2
+305,662,Meniscus Repair,88.1
+306,898,Cyst Removal,75.7
+307,702,ACL Reconstruction,91.6
+308,545,PCL Reconstruction,86.3
+309,579,PCL Reconstruction,81.0
+310,229,Knee Arthroscopy,74.1
+311,740,Total Knee Replacement,76.7
+312,24,Total Knee Replacement,82.2
+313,114,ACL Reconstruction,88.7
+314,270,Partial Knee Replacement,72.4
+315,508,Cyst Removal,88.9
+316,5,Knee Arthroscopy,76.6
+317,439,Meniscus Repair,92.0
+318,636,Knee Arthroscopy,90.7
+319,434,ACL Reconstruction,87.2
+320,113,Knee Arthroscopy,82.7
+321,19,Cyst Removal,77.8
+322,637,Meniscectomy,94.0
+323,264,Cyst Removal,88.6
+324,492,Partial Knee Replacement,82.6
+325,413,PCL Reconstruction,94.3
+326,989,Total Knee Replacement,74.9
+327,391,ACL Reconstruction,89.2
+328,325,ACL Reconstruction,86.9
+329,683,ACL Reconstruction,71.6
+330,803,ACL Reconstruction,86.7
+331,406,PCL Reconstruction,85.9
+332,659,Cyst Removal,79.5
+333,386,PCL Reconstruction,90.3
+334,19,Total Knee Replacement,74.7
+335,765,Total Knee Replacement,87.6
+336,932,Meniscus Repair,72.2
+337,365,ACL Reconstruction,80.3
+338,251,Total Knee Replacement,71.1
+339,551,Knee Arthroscopy,87.4
+340,272,Total Knee Replacement,74.6
+341,711,Cyst Removal,85.0
+342,927,ACL Reconstruction,88.8
+343,961,ACL Reconstruction,75.9
+344,946,Meniscus Repair,85.1
+345,60,Cyst Removal,87.3
+346,191,Cyst Removal,75.3
+347,458,Cyst Removal,81.4
+348,837,ACL Reconstruction,85.6
+349,207,Cyst Removal,72.6
+350,781,Total Knee Replacement,73.5
+351,411,Partial Knee Replacement,79.4
+352,611,PCL Reconstruction,80.0
+353,575,ACL Reconstruction,76.4
+354,123,Knee Arthroscopy,84.2
+355,427,Partial Knee Replacement,91.9
+356,652,Partial Knee Replacement,83.3
+357,100,Meniscectomy,71.6
+358,862,Knee Arthroscopy,70.1
+359,580,Total Knee Replacement,72.7
+360,833,Partial Knee Replacement,78.0
+361,554,PCL Reconstruction,83.0
+362,553,Meniscectomy,77.6
+363,915,ACL Reconstruction,81.3
+364,719,ACL Reconstruction,92.5
+365,38,Partial Knee Replacement,84.8
+366,373,Cyst Removal,80.6
+367,192,Cyst Removal,93.1
+368,386,PCL Reconstruction,70.6
+369,133,Meniscus Repair,71.5
+370,717,Cyst Removal,80.5
+371,316,PCL Reconstruction,93.8
+372,975,Cyst Removal,81.5
+373,289,Total Knee Replacement,74.8
+374,519,Knee Arthroscopy,71.5
+375,969,Knee Arthroscopy,80.1
+376,734,Meniscus Repair,71.8
+377,563,Meniscus Repair,91.4
+378,161,ACL Reconstruction,94.8
+379,892,ACL Reconstruction,78.4
+380,386,ACL Reconstruction,88.1
+381,491,Meniscus Repair,85.1
+382,761,ACL Reconstruction,88.5
+383,721,ACL Reconstruction,72.6
+384,257,Meniscectomy,78.7
+385,623,Meniscectomy,81.3
+386,165,PCL Reconstruction,89.0
+387,636,Total Knee Replacement,80.8
+388,26,ACL Reconstruction,86.5
+389,398,Patellar Realignment,82.7
+390,139,PCL Reconstruction,71.5
+391,297,Patellar Realignment,86.9
+392,933,Cyst Removal,70.7
+393,717,PCL Reconstruction,82.6
+394,456,Meniscectomy,77.5
+395,341,Patellar Realignment,76.6
+396,754,Cyst Removal,87.1
+397,682,Cyst Removal,74.7
+398,603,ACL Reconstruction,86.9
+399,138,PCL Reconstruction,78.0
+400,621,Cyst Removal,79.0
+401,78,Knee Arthroscopy,73.3
+402,5,Total Knee Replacement,93.2
+403,30,ACL Reconstruction,78.6
+404,659,Meniscus Repair,72.1
+405,722,Meniscectomy,93.0
+406,103,Cyst Removal,80.6
+407,418,Knee Arthroscopy,74.5
+408,130,ACL Reconstruction,76.2
+409,932,Cyst Removal,82.9
+410,255,Meniscus Repair,75.5
+411,335,Cyst Removal,84.8
+412,493,Cyst Removal,70.0
+413,325,Meniscectomy,86.1
+414,950,Patellar Realignment,83.7
+415,823,ACL Reconstruction,81.2
+416,367,Cyst Removal,73.9
+417,763,PCL Reconstruction,80.7
+418,234,Cyst Removal,70.8
+419,21,Cyst Removal,87.4
+420,79,PCL Reconstruction,84.2
+421,398,ACL Reconstruction,84.9
+422,740,Cyst Removal,91.8
+423,971,Meniscectomy,85.7
+424,269,Total Knee Replacement,87.5
+425,962,Cyst Removal,93.3
+426,585,Meniscus Repair,82.7
+427,251,Cyst Removal,92.4
+428,723,Knee Arthroscopy,94.9
+429,728,PCL Reconstruction,88.8
+430,551,PCL Reconstruction,91.3
+431,943,Cyst Removal,75.0
+432,438,Knee Arthroscopy,72.9
+433,358,Partial Knee Replacement,74.0
+434,435,Total Knee Replacement,93.8
+435,935,Meniscus Repair,92.1
+436,924,ACL Reconstruction,77.8
+437,917,ACL Reconstruction,74.4
+438,231,PCL Reconstruction,78.0
+439,835,Meniscus Repair,91.5
+440,723,Partial Knee Replacement,94.7
+441,919,Patellar Realignment,70.7
+442,640,Total Knee Replacement,77.0
+443,21,Total Knee Replacement,89.0
+444,297,Cyst Removal,92.8
+445,52,Cyst Removal,84.0
+446,483,Total Knee Replacement,71.3
+447,204,Meniscectomy,83.6
+448,499,Partial Knee Replacement,78.6
+449,641,Total Knee Replacement,83.4
+450,676,PCL Reconstruction,84.5
+451,809,PCL Reconstruction,72.4
+452,312,Knee Arthroscopy,91.9
+453,102,ACL Reconstruction,82.6
+454,890,Total Knee Replacement,80.3
+455,124,Meniscectomy,75.1
+456,981,Knee Arthroscopy,93.3
+457,935,PCL Reconstruction,76.6
+458,612,ACL Reconstruction,86.8
+459,274,Partial Knee Replacement,84.8
+460,360,PCL Reconstruction,93.2
+461,391,Patellar Realignment,77.7
+462,388,ACL Reconstruction,79.2
+463,890,Meniscus Repair,78.4
+464,511,PCL Reconstruction,89.3
+465,537,Cyst Removal,93.3
+466,252,PCL Reconstruction,91.0
+467,877,Cyst Removal,84.7
+468,839,PCL Reconstruction,72.2
+469,982,Cyst Removal,94.4
+470,467,Knee Arthroscopy,73.0
+471,976,Knee Arthroscopy,90.6
+472,330,PCL Reconstruction,75.6
+473,158,Meniscus Repair,73.2
+474,261,Meniscectomy,74.1
+475,378,Cyst Removal,75.4
+476,653,Meniscus Repair,79.1
+477,689,ACL Reconstruction,73.7
+478,326,ACL Reconstruction,74.7
+479,91,Cyst Removal,91.5
+480,422,Knee Arthroscopy,84.9
+481,984,PCL Reconstruction,88.7
+482,244,ACL Reconstruction,83.8
+483,530,ACL Reconstruction,78.6
+484,914,Partial Knee Replacement,82.1
+485,689,Meniscectomy,72.1
+486,392,ACL Reconstruction,72.2
+487,426,PCL Reconstruction,81.1
+488,738,Cyst Removal,91.8
+489,317,Meniscus Repair,82.8
+490,841,Total Knee Replacement,70.2
+491,456,Meniscectomy,71.6
+492,303,Cyst Removal,74.3
+493,148,ACL Reconstruction,77.9
+494,582,Total Knee Replacement,81.1
+495,646,Meniscectomy,73.8
+496,184,PCL Reconstruction,77.8
+497,731,Meniscus Repair,81.4
+498,841,Cyst Removal,79.1
+499,444,PCL Reconstruction,93.6
+500,855,Knee Arthroscopy,92.4
+501,531,Knee Arthroscopy,83.5
+502,996,ACL Reconstruction,90.8
+503,604,Meniscus Repair,72.5
+504,49,ACL Reconstruction,81.0
+505,171,Knee Arthroscopy,81.4
+506,766,Meniscus Repair,89.2
+507,174,Meniscectomy,75.5
+508,305,PCL Reconstruction,81.4
+509,538,Partial Knee Replacement,76.3
+510,665,Meniscectomy,71.3
+511,41,PCL Reconstruction,75.2
+512,141,Total Knee Replacement,70.2
+513,606,Meniscectomy,80.8
+514,620,Meniscectomy,94.4
+515,260,Meniscectomy,86.4
+516,716,ACL Reconstruction,95.0
+517,366,Meniscectomy,94.6
+518,497,Meniscectomy,82.1
+519,663,Total Knee Replacement,73.6
+520,386,Total Knee Replacement,83.8
+521,676,PCL Reconstruction,81.4
+522,189,Total Knee Replacement,84.4
+523,515,ACL Reconstruction,70.5
+524,162,Meniscectomy,81.6
+525,100,Knee Arthroscopy,86.1
+526,317,Knee Arthroscopy,75.8
+527,377,Total Knee Replacement,93.3
+528,118,Total Knee Replacement,86.1
+529,694,Cyst Removal,90.2
+530,275,Meniscectomy,84.8
+531,728,Partial Knee Replacement,88.1
+532,567,Meniscus Repair,91.4
+533,593,Total Knee Replacement,89.9
+534,266,PCL Reconstruction,71.7
+535,219,Meniscus Repair,82.0
+536,569,ACL Reconstruction,86.0
+537,247,Cyst Removal,86.5
+538,726,Knee Arthroscopy,84.9
+539,742,ACL Reconstruction,77.5
+540,23,ACL Reconstruction,86.1
+541,697,ACL Reconstruction,71.8
+542,24,PCL Reconstruction,91.3
+543,705,ACL Reconstruction,89.6
+544,289,Cyst Removal,93.2
+545,994,Meniscus Repair,73.2
+546,83,Total Knee Replacement,93.9
+547,372,Meniscus Repair,92.6
+548,794,Total Knee Replacement,80.8
+549,99,Cyst Removal,87.6
+550,522,Meniscus Repair,76.0
+551,960,Patellar Realignment,75.2
+552,29,Cyst Removal,73.0
+553,325,PCL Reconstruction,74.7
+554,192,Meniscus Repair,87.4
+555,230,Meniscectomy,89.8
+556,258,Total Knee Replacement,77.4
+557,772,PCL Reconstruction,81.4
+558,649,ACL Reconstruction,85.0
+559,521,Meniscectomy,72.1
+560,217,Total Knee Replacement,92.0
+561,153,PCL Reconstruction,90.5
+562,426,Knee Arthroscopy,79.7
+563,899,PCL Reconstruction,87.0
+564,118,Total Knee Replacement,81.1
+565,628,Knee Arthroscopy,88.1
+566,828,PCL Reconstruction,78.6
+567,563,ACL Reconstruction,79.2
+568,281,Knee Arthroscopy,72.4
+569,259,Knee Arthroscopy,81.2
+570,517,Partial Knee Replacement,76.0
+571,445,Meniscus Repair,78.8
+572,336,Meniscectomy,79.9
+573,316,Patellar Realignment,85.7
+574,239,Meniscectomy,88.6
+575,40,Cyst Removal,75.8
+576,402,Knee Arthroscopy,83.9
+577,843,Knee Arthroscopy,87.9
+578,991,Meniscectomy,91.0
+579,940,Partial Knee Replacement,83.1
+580,679,Cyst Removal,84.0
+581,517,Total Knee Replacement,87.1
+582,1000,Cyst Removal,89.3
+583,129,Total Knee Replacement,93.6
+584,488,ACL Reconstruction,89.9
+585,300,Patellar Realignment,72.8
+586,488,PCL Reconstruction,77.6
+587,274,Total Knee Replacement,82.3
+588,452,Total Knee Replacement,73.4
+589,392,PCL Reconstruction,85.0
+590,984,Partial Knee Replacement,89.2
+591,94,PCL Reconstruction,74.0
+592,541,Meniscus Repair,91.8
+593,140,Meniscectomy,82.5
+594,57,Knee Arthroscopy,70.1
+595,610,Cyst Removal,71.9
+596,187,Meniscectomy,83.2
+597,779,ACL Reconstruction,89.5
+598,84,Knee Arthroscopy,80.9
+599,467,PCL Reconstruction,87.8
+600,244,Patellar Realignment,76.6
+601,491,Knee Arthroscopy,70.6
+602,549,Partial Knee Replacement,89.5
+603,961,Meniscectomy,77.4
+604,356,Meniscectomy,71.6
+605,561,Meniscus Repair,76.3
+606,577,PCL Reconstruction,87.9
+607,111,Total Knee Replacement,76.1
+608,823,Total Knee Replacement,94.2
+609,156,Total Knee Replacement,73.6
+610,569,Patellar Realignment,88.3
+611,968,Meniscectomy,87.8
+612,720,PCL Reconstruction,87.6
+613,980,Meniscectomy,85.2
+614,884,ACL Reconstruction,89.0
+615,510,Cyst Removal,70.1
+616,919,Knee Arthroscopy,80.6
+617,786,Partial Knee Replacement,85.3
+618,768,Knee Arthroscopy,93.3
+619,32,Patellar Realignment,75.7
+620,314,Patellar Realignment,90.5
+621,65,Cyst Removal,70.8
+622,515,ACL Reconstruction,84.7
+623,599,Meniscus Repair,89.3
+624,623,Total Knee Replacement,87.8
+625,829,Partial Knee Replacement,84.7
+626,499,ACL Reconstruction,88.2
+627,90,Knee Arthroscopy,92.3
+628,132,ACL Reconstruction,94.9
+629,170,Total Knee Replacement,89.8
+630,92,Partial Knee Replacement,84.8
+631,51,ACL Reconstruction,91.5
+632,815,PCL Reconstruction,77.9
+633,274,Knee Arthroscopy,82.2
+634,123,ACL Reconstruction,84.4
+635,719,ACL Reconstruction,77.1
+636,107,ACL Reconstruction,80.5
+637,150,Total Knee Replacement,81.2
+638,382,PCL Reconstruction,78.7
+639,393,ACL Reconstruction,88.2
+640,338,ACL Reconstruction,86.2
+641,639,Total Knee Replacement,91.4
+642,226,Cyst Removal,74.7
+643,232,ACL Reconstruction,71.9
+644,230,Knee Arthroscopy,89.0
+645,139,Meniscus Repair,93.4
+646,331,Cyst Removal,86.3
+647,205,Partial Knee Replacement,74.2
+648,644,Knee Arthroscopy,88.3
+649,273,Patellar Realignment,78.7
+650,36,Partial Knee Replacement,76.3
+651,649,Patellar Realignment,89.7
+652,886,PCL Reconstruction,87.7
+653,423,Total Knee Replacement,80.9
+654,892,ACL Reconstruction,73.5
+655,528,ACL Reconstruction,81.4
+656,192,PCL Reconstruction,76.1
+657,1000,Meniscus Repair,74.9
+658,831,Knee Arthroscopy,85.3
+659,237,Cyst Removal,89.3
+660,591,Total Knee Replacement,84.7
+661,60,Cyst Removal,77.8
+662,486,Patellar Realignment,73.3
+663,867,Total Knee Replacement,89.3
+664,766,Total Knee Replacement,78.7
+665,732,PCL Reconstruction,82.1
+666,726,PCL Reconstruction,94.4
+667,391,PCL Reconstruction,71.1
+668,483,Meniscectomy,94.7
+669,163,Knee Arthroscopy,84.0
+670,119,Meniscectomy,85.0
+671,205,Total Knee Replacement,84.0
+672,747,Total Knee Replacement,94.2
+673,11,Cyst Removal,80.0
+674,955,Knee Arthroscopy,87.5
+675,54,Knee Arthroscopy,88.8
+676,107,PCL Reconstruction,76.2
+677,339,Cyst Removal,82.9
+678,593,Total Knee Replacement,77.9
+679,557,Partial Knee Replacement,78.0
+680,463,Meniscectomy,79.3
+681,154,PCL Reconstruction,89.3
+682,661,Knee Arthroscopy,71.4
+683,167,Knee Arthroscopy,86.3
+684,345,PCL Reconstruction,87.9
+685,62,Knee Arthroscopy,71.6
+686,388,Cyst Removal,88.8
+687,844,PCL Reconstruction,71.6
+688,29,Total Knee Replacement,79.6
+689,638,Cyst Removal,85.1
+690,572,Cyst Removal,70.7
+691,357,ACL Reconstruction,90.3
+692,323,ACL Reconstruction,76.6
+693,32,Partial Knee Replacement,83.7
+694,839,PCL Reconstruction,86.5
+695,891,Partial Knee Replacement,77.1
+696,480,ACL Reconstruction,82.6
+697,126,PCL Reconstruction,86.1
+698,221,ACL Reconstruction,74.5
+699,220,Patellar Realignment,74.4
+700,247,Meniscus Repair,94.7
+701,969,ACL Reconstruction,82.4
+702,401,Knee Arthroscopy,90.9
+703,276,Knee Arthroscopy,74.0
+704,743,Cyst Removal,76.3
+705,555,Meniscectomy,84.6
+706,86,PCL Reconstruction,79.2
+707,225,PCL Reconstruction,86.2
+708,609,Cyst Removal,71.8
+709,766,Total Knee Replacement,71.8
+710,179,ACL Reconstruction,81.2
+711,146,ACL Reconstruction,89.8
+712,553,ACL Reconstruction,90.2
+713,860,PCL Reconstruction,85.2
+714,850,Total Knee Replacement,94.6
+715,119,Total Knee Replacement,87.3
+716,734,Cyst Removal,70.6
+717,518,Knee Arthroscopy,72.3
+718,990,ACL Reconstruction,90.8
+719,794,Partial Knee Replacement,79.0
+720,184,Cyst Removal,87.1
+721,422,Partial Knee Replacement,76.8
+722,320,Total Knee Replacement,75.1
+723,587,PCL Reconstruction,86.8
+724,395,ACL Reconstruction,91.0
+725,844,Patellar Realignment,79.2
+726,908,Patellar Realignment,92.8
+727,505,Cyst Removal,91.7
+728,184,Meniscus Repair,71.0
+729,197,Total Knee Replacement,76.9
+730,456,Patellar Realignment,85.3
+731,106,Partial Knee Replacement,82.3
+732,505,Total Knee Replacement,83.8
+733,838,Cyst Removal,81.2
+734,387,Total Knee Replacement,81.2
+735,807,ACL Reconstruction,80.2
+736,984,Total Knee Replacement,81.4
+737,41,PCL Reconstruction,79.7
+738,292,Knee Arthroscopy,81.0
+739,328,Total Knee Replacement,83.8
+740,664,Total Knee Replacement,72.0
+741,132,Meniscectomy,83.9
+742,70,Knee Arthroscopy,86.5
+743,283,Cyst Removal,70.9
+744,533,Patellar Realignment,70.2
+745,440,Patellar Realignment,85.0
+746,215,Cyst Removal,78.3
+747,249,Knee Arthroscopy,93.5
+748,783,Patellar Realignment,84.7
+749,175,Partial Knee Replacement,92.3
+750,106,Patellar Realignment,83.3
+751,507,Patellar Realignment,85.1
+752,415,ACL Reconstruction,74.8
+753,683,ACL Reconstruction,82.6
+754,596,Knee Arthroscopy,81.4
+755,872,Total Knee Replacement,94.7
+756,350,Meniscectomy,71.3
+757,309,Meniscus Repair,94.5
+758,637,Partial Knee Replacement,93.7
+759,409,Total Knee Replacement,89.9
+760,598,Cyst Removal,81.2
+761,893,Meniscectomy,82.6
+762,100,Meniscectomy,92.5
+763,440,Meniscus Repair,73.7
+764,445,Meniscectomy,94.4
+765,811,Partial Knee Replacement,92.3
+766,596,Cyst Removal,92.9
+767,95,PCL Reconstruction,76.4
+768,261,PCL Reconstruction,72.1
+769,479,Knee Arthroscopy,87.8
+770,725,Knee Arthroscopy,89.9
+771,718,ACL Reconstruction,86.0
+772,284,Knee Arthroscopy,74.3
+773,357,Total Knee Replacement,91.9
+774,889,Patellar Realignment,78.2
+775,976,ACL Reconstruction,93.3
+776,586,Cyst Removal,84.1
+777,457,Meniscus Repair,80.7
+778,998,ACL Reconstruction,83.5
+779,759,Meniscus Repair,71.8
+780,35,Patellar Realignment,87.3
+781,632,Knee Arthroscopy,78.2
+782,241,PCL Reconstruction,77.3
+783,17,Cyst Removal,77.2
+784,373,Meniscectomy,91.4
+785,931,ACL Reconstruction,84.3
+786,453,Cyst Removal,84.6
+787,18,Total Knee Replacement,73.1
+788,402,Meniscectomy,74.3
+789,132,Total Knee Replacement,84.0
+790,243,Knee Arthroscopy,72.5
+791,806,ACL Reconstruction,83.2
+792,796,Cyst Removal,88.2
+793,97,ACL Reconstruction,76.6
+794,392,Partial Knee Replacement,94.7
+795,575,ACL Reconstruction,73.6
+796,991,PCL Reconstruction,71.7
+797,460,Knee Arthroscopy,74.5
+798,552,PCL Reconstruction,94.2
+799,545,Cyst Removal,81.0
+800,397,Cyst Removal,80.7
+801,740,Total Knee Replacement,91.4
+802,414,PCL Reconstruction,82.7
+803,883,ACL Reconstruction,86.7
+804,765,Total Knee Replacement,74.8
+805,281,ACL Reconstruction,91.7
+806,629,PCL Reconstruction,73.3
+807,764,Knee Arthroscopy,87.5
+808,42,Total Knee Replacement,93.3
+809,180,ACL Reconstruction,73.6
+810,635,Meniscectomy,75.4
+811,512,Total Knee Replacement,83.1
+812,122,Knee Arthroscopy,79.4
+813,383,Cyst Removal,76.7
+814,567,Patellar Realignment,80.9
+815,583,Partial Knee Replacement,76.6
+816,373,Meniscus Repair,94.7
+817,384,ACL Reconstruction,94.5
+818,264,Knee Arthroscopy,91.9
+819,836,PCL Reconstruction,77.1
+820,521,Total Knee Replacement,78.1
+821,100,PCL Reconstruction,92.7
+822,875,ACL Reconstruction,92.2
+823,49,Total Knee Replacement,74.1
+824,904,Patellar Realignment,87.4
+825,282,Cyst Removal,71.5
+826,603,Knee Arthroscopy,73.4
+827,75,Knee Arthroscopy,93.9
+828,786,PCL Reconstruction,76.7
+829,447,Partial Knee Replacement,81.4
+830,825,Partial Knee Replacement,70.8
+831,831,Meniscus Repair,74.2
+832,245,ACL Reconstruction,85.5
+833,115,ACL Reconstruction,85.2
+834,769,Cyst Removal,80.4
+835,137,Knee Arthroscopy,94.0
+836,401,Total Knee Replacement,88.4
+837,425,Patellar Realignment,94.2
+838,577,Patellar Realignment,87.1
+839,461,Cyst Removal,78.1
+840,421,Total Knee Replacement,81.1
+841,216,Patellar Realignment,92.3
+842,886,PCL Reconstruction,84.9
+843,293,PCL Reconstruction,74.1
+844,619,PCL Reconstruction,91.1
+845,990,Total Knee Replacement,91.6
+846,682,Cyst Removal,91.6
+847,439,PCL Reconstruction,73.1
+848,905,Total Knee Replacement,77.8
+849,733,Total Knee Replacement,89.1
+850,155,Cyst Removal,80.6
+851,421,Patellar Realignment,73.6
+852,98,Knee Arthroscopy,82.1
+853,5,Meniscectomy,72.0
+854,554,Knee Arthroscopy,84.5
+855,916,ACL Reconstruction,74.0
+856,906,PCL Reconstruction,86.4
+857,961,Partial Knee Replacement,71.2
+858,99,Patellar Realignment,83.3
+859,521,Patellar Realignment,77.2
+860,203,ACL Reconstruction,89.4
+861,10,Patellar Realignment,80.3
+862,753,PCL Reconstruction,74.2
+863,426,ACL Reconstruction,73.3
+864,319,Total Knee Replacement,84.2
+865,529,Knee Arthroscopy,92.5
+866,703,PCL Reconstruction,93.1
+867,357,PCL Reconstruction,73.2
+868,82,Partial Knee Replacement,86.2
+869,91,Total Knee Replacement,71.3
+870,313,Patellar Realignment,90.9
+871,200,Partial Knee Replacement,89.8
+872,954,PCL Reconstruction,82.2
+873,499,PCL Reconstruction,78.7
+874,383,Meniscus Repair,75.8
+875,158,Partial Knee Replacement,87.0
+876,385,Total Knee Replacement,89.1
+877,489,Meniscus Repair,77.1
+878,485,Partial Knee Replacement,89.8
+879,644,Knee Arthroscopy,79.0
+880,802,PCL Reconstruction,90.4
+881,759,Patellar Realignment,80.7
+882,694,ACL Reconstruction,84.1
+883,805,Cyst Removal,77.3
+884,678,Meniscectomy,77.7
+885,381,Meniscus Repair,91.4
+886,683,PCL Reconstruction,83.7
+887,436,Patellar Realignment,76.7
+888,601,Cyst Removal,71.4
+889,900,Patellar Realignment,71.9
+890,415,Knee Arthroscopy,71.1
+891,853,PCL Reconstruction,93.9
+892,957,PCL Reconstruction,84.0
+893,86,Total Knee Replacement,73.2
+894,318,Cyst Removal,91.6
+895,81,PCL Reconstruction,81.8
+896,357,PCL Reconstruction,84.2
+897,537,Knee Arthroscopy,91.6
+898,646,PCL Reconstruction,89.0
+899,776,ACL Reconstruction,77.8
+900,828,Total Knee Replacement,78.6
+901,731,Patellar Realignment,75.8
+902,201,PCL Reconstruction,87.6
+903,62,Knee Arthroscopy,94.9
+904,161,Patellar Realignment,71.2
+905,337,Meniscus Repair,76.7
+906,762,Meniscus Repair,89.3
+907,398,Partial Knee Replacement,87.6
+908,894,Knee Arthroscopy,87.9
+909,412,ACL Reconstruction,82.8
+910,258,Meniscus Repair,76.8
+911,892,Total Knee Replacement,79.3
+912,33,Partial Knee Replacement,89.7
+913,427,Cyst Removal,88.4
+914,720,Partial Knee Replacement,77.0
+915,157,Patellar Realignment,86.4
+916,1,Meniscectomy,73.7
+917,23,Cyst Removal,83.5
+918,372,Knee Arthroscopy,94.0
+919,937,Patellar Realignment,82.8
+920,812,Patellar Realignment,71.1
+921,213,Partial Knee Replacement,73.1
+922,747,Meniscus Repair,94.8
+923,963,ACL Reconstruction,86.4
+924,21,Knee Arthroscopy,83.5
+925,88,Partial Knee Replacement,84.5
+926,38,Meniscus Repair,76.9
+927,414,Cyst Removal,75.9
+928,717,Meniscus Repair,88.9
+929,285,Cyst Removal,92.0
+930,113,Meniscus Repair,88.5
+931,181,Knee Arthroscopy,71.6
+932,870,Meniscus Repair,72.1
+933,995,Meniscus Repair,84.7
+934,317,PCL Reconstruction,74.9
+935,336,Total Knee Replacement,85.9
+936,441,ACL Reconstruction,89.2
+937,20,ACL Reconstruction,76.1
+938,424,Patellar Realignment,85.3
+939,228,Meniscectomy,82.6
+940,709,Knee Arthroscopy,75.8
+941,131,ACL Reconstruction,73.4
+942,614,ACL Reconstruction,92.7
+943,877,PCL Reconstruction,91.2
+944,98,Total Knee Replacement,79.0
+945,111,Knee Arthroscopy,76.3
+946,152,Knee Arthroscopy,73.5
+947,124,ACL Reconstruction,75.5
+948,450,Cyst Removal,86.0
+949,230,Knee Arthroscopy,82.3
+950,6,Total Knee Replacement,77.4
+951,67,Knee Arthroscopy,89.7
+952,62,ACL Reconstruction,95.0
+953,717,Total Knee Replacement,92.5
+954,774,PCL Reconstruction,75.8
+955,972,Meniscectomy,92.8
+956,546,Patellar Realignment,84.9
+957,257,PCL Reconstruction,74.9
+958,74,Partial Knee Replacement,87.3
+959,388,Cyst Removal,73.6
+960,35,ACL Reconstruction,92.6
+961,687,ACL Reconstruction,76.5
+962,461,ACL Reconstruction,92.7
+963,218,Patellar Realignment,86.2
+964,292,Cyst Removal,75.4
+965,321,Cyst Removal,79.5
+966,289,PCL Reconstruction,71.8
+967,82,Total Knee Replacement,76.5
+968,912,Cyst Removal,90.0
+969,817,ACL Reconstruction,73.1
+970,647,Total Knee Replacement,83.2
+971,614,ACL Reconstruction,82.2
+972,724,Meniscectomy,92.4
+973,723,ACL Reconstruction,83.7
+974,649,ACL Reconstruction,72.7
+975,188,Total Knee Replacement,78.9
+976,960,PCL Reconstruction,71.0
+977,815,Total Knee Replacement,94.8
+978,212,ACL Reconstruction,94.6
+979,965,ACL Reconstruction,94.6
+980,8,Cyst Removal,83.9
+981,855,Patellar Realignment,94.6
+982,431,Meniscectomy,77.6
+983,39,Meniscus Repair,78.3
+984,379,Knee Arthroscopy,85.2
+985,632,PCL Reconstruction,90.3
+986,473,Total Knee Replacement,73.5
+987,332,PCL Reconstruction,90.2
+988,702,Meniscectomy,93.0
+989,853,Total Knee Replacement,84.8
+990,377,Knee Arthroscopy,75.8
+991,921,PCL Reconstruction,94.5
+992,433,Knee Arthroscopy,86.6
+993,979,PCL Reconstruction,74.4
+994,46,Meniscectomy,81.7
+995,806,Knee Arthroscopy,90.4
+996,607,Patellar Realignment,77.8
+997,892,Total Knee Replacement,85.2
+998,69,PCL Reconstruction,91.6
+999,732,Patellar Realignment,85.5
+1000,327,ACL Reconstruction,90.0
